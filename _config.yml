@@ -2,7 +2,7 @@ title: DefensX
 description: DefensX protects users from sophisticated cybersecurity attacks by isolating threats from reaching end-point devices, such as desktops, laptops, smart phones and tablets.
 author: DefensX Team
 email: info@defensx.com
-baseurl: ""
+baseurl: "/defensx_test"
 url: "http://localhost:4000"
 theme: minima
 permalink: /:categories/:title/
