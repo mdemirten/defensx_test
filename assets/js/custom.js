@@ -6,7 +6,7 @@
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: '/assets/animations/DefensX_Side_BY_Side_Animation.json'
+    path: '{{ site.baseurl }}/assets/animations/DefensX_Side_BY_Side_Animation.json'
   });
 });
 

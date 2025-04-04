@@ -53,4 +53,4 @@ minibundle:
     - "assets/css/style.css"
 
 include:
-  - "assets/animations/DefensX_Desktop_Animation.json"
+  - "{{ site.baseurl }}/assets/animations/DefensX_Desktop_Animation.json"
