@@ -1,0 +1,389 @@
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header .bg-light{
+background-color: #fff!important;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: 0;
+  margin: 0;
+}
+
+nav a {
+  font-family: Plus Jakarta Sans;
+  font-weight: 700!important;
+  font-size: 16px!important;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #000!important;
+  
+}
+.navbar, h1, h2, h3, p, a {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.hero {
+  padding: 4rem 2rem;
+  background: linear-gradient(to right, #dc4ef7, #437aff);
+  color: white;
+  text-align: center;
+}
+
+.buttons .btn {
+  padding: 1rem 2rem;
+  background: white;
+  color: black;
+  border-radius: 5px;
+  margin: 1rem;
+  text-decoration: none;
+}
+
+.buttons .btn.alt {
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.stats {
+  padding: 2rem;
+  text-align: center;
+}
+
+.stats ul {
+  list-style: none;
+  padding: 0;
+}
+
+.stats li {
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .navbar .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+  }
+}
+.dropdown-menu {
+  transition: opacity 0.2s ease;
+  opacity: 0;
+  display: block;
+  visibility: hidden;
+  transform: translateY(10px);
+}
+
+.navbar .dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+.navbar-nav .highlight > a {
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #5D0EF5!important;
+  
+}
+@media (min-width: 992px) {
+  .navbar .dropdown-toggle::after {
+    display: none !important;
+  }
+}
+.dropdown-menu{display: none;}
+.navbar-toggler{border: none!important;border-radius: none!important;}
+ 
+.menu-icon-open,
+.menu-icon-close {
+  display: block;
+  width: 32px;
+  height: 21px;
+}
+
+ 
+.menu-icon-close {
+  display: none;
+}
+
+ 
+.navbar-toggler[aria-expanded="true"] .menu-icon-open {
+  display: none;
+}
+
+.navbar-toggler[aria-expanded="true"] .menu-icon-close {
+  display: block!important;
+}
+ 
+.navbar-nav ul{text-align: left;}
+nav .navbar-nav{padding-top:20px;padding-bottom:20px;}
+nav .navbar-nav a{text-align: left!important;font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  }
+ /* Menü öğesinde flex düzeni */
+.nav-link.dropdown-toggle {
+  display: flex;
+  justify-content: space-between;  /* Sağdaki ikonu en sağa yerleştirir */
+  align-items: center;  /* İkonu dikeyde ortalar */
+  width: 100%;  /* Menü öğesinin tam genişlikte olmasını sağlar */
+}
+
+/* İkonun sağa kaymasını sağlar */
+.dropdown-icon {
+  margin-left: 8px; /* "Solutions" metni ile ikonu ayıran boşluk */
+}
+
+/* Mobile için uygun ikon büyüklüğü */
+@media (max-width: 991px) {
+  .dropdown-icon {
+    width: 24px; /* İkonun boyutunu ayarlamak */
+    height: 24px;
+  }
+}
+.nav-item.dropdown.d-lg-none{border-bottom: 1px solid #5D27F0;}
+.dropdown-menu{border: none!important;}
+nav .navbar-nav a.dropdown-item{font-family: Plus Jakarta Sans;
+  font-weight: 400!important;
+  font-size: 14px!important;
+  line-height: 100%;
+  letter-spacing: 0%;margin-bottom:10px;
+  }
+ 
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);  
+  display: none;  
+  z-index: 999;  
+  pointer-events: none;  
+}
+
+ 
+.navbar-toggler[aria-expanded="true"] ~ #overlay {
+  display: block;  
+  pointer-events: auto;  
+}
+
+ 
+.navbar-nav .dropdown-toggle {
+  display: flex;
+  justify-content: space-between;   
+  align-items: center;   
+}
+
+ 
+@media (max-width: 991px) {
+  .dropdown-icon {
+    width: 24px;  
+    height: 24px;
+  }
+}
+
+button:focus:not(:focus-visible){box-shadow: none;}
+.section_slider{background-image:url(/assets/images/homepage/section_slider_bg.jpeg);    min-height: 622px;
+  background-repeat: no-repeat;
+  background-size: cover;display: flex;
+  align-items: center; /* Dikeyde ortalama */
+  justify-content: center; /* Yatayda ortalama */
+}
+.section_slider .row{align-items: center;}
+.section_slider h1{font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  font-size: 49px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  }
+.section_slider p{font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;color:#000;
+  line-height: 25px;
+  letter-spacing: 0%;margin-top: 25px;
+  }
+  .section_slider p.bottons{line-height: 37px;} 
+.section_slider p.bottons a{    color: #fff;
+  background-color: #5D0EF5;
+  padding: 4px;
+  width: 245px;
+  border-radius: 10px;
+  display: inline-block;
+  height: 50px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 30px;
+  text-align: center;
+  font-size: 18px;
+  vertical-align: middle;
+  font-weight: 400;
+  }
+
+
+.section_protection_where-you{padding-top:50px;}
+.section_protection_where-you .container{margin-bottom:40px;}
+.section_protection_where-you .container .row .col-md-4 h3{color:#5D0EF5;font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  }
+  .section_protection_where-you .container .row.centerline{flex-direction: row;
+    align-items: flex-end;
+    display: flex;
+    flex-wrap: nowrap;}
+  .section_protection_where-you .container .row .col-md-4 p{text-align: center;
+    margin: 0 auto;
+    display: block;
+    padding: 45px;
+    padding-top: 0px;} 
+.section_protection_where-you .container .row .col-md-8 .row.rowdown {} 
+  .section_protection_where-you .container .row .col-md-8 h4{color:#5D0EF5;font-family: "Plus Jakarta Sans";
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    }
+    .section_protection_where-you .container .row .col-md-8 p{font-family: 'Roboto', sans-serif;font-weight: bold;font-size:18px;color:#000;}
+
+    .section_protection_where-you .container .row .col-md-8 .col-md-4.first,
+    .section_protection_where-you .container .row .col-md-8 .col-md-4.second{border-right: 1px solid #5D0EF5;}
+
+    .section_protection_where-you .container-fluid .row{    justify-content: center;}
+.section_protection_where-you .container-fluid .col-mds{    background: #D7CDFD;
+  width: 245px;
+  height: 130px;float:left;
+  border-width: 5px;
+  border-radius: 10px;
+  padding-top: 44px;
+  padding-right: 4px;
+  padding-bottom: 44px;
+  text-align: center;
+  padding-left: 4px;
+  display: block;margin-right: 20px;
+  margin-bottom: 20px;}
+  .section_protection_where-you .container-fluid .col-mds h5{font-family: "Plus Jakarta Sans";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    }
+
+
+.contentbox{background-color: #5D0EF5;min-height: 500px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+.section_slider .row{    display: flex;
+      flex-wrap: wrap;
+      margin-top: calc(-1* var(--bs-gutter-y));
+      margin-right: calc(-.5* var(--bs-gutter-x));
+      margin-left: calc(-.5* var(--bs-gutter-x));
+      flex-direction: column-reverse;}
+      .section_slider .row img{        width: 146%;
+        margin-left: -173px;}
+        .section_slider h1{font-size:22px;text-align: center;}  
+        .section_slider p{font-size: 14px;}  
+        .section_slider p.bottons a{display: block;    font-weight: 400;
+          margin: 0 auto;
+          margin-bottom: 15px;}  
+
+}
+
+
+
+@media (max-width: 768px) {
+  .section_slider .row{    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1* var(--bs-gutter-y));
+    margin-right: calc(-.5* var(--bs-gutter-x));
+    margin-left: calc(-.5* var(--bs-gutter-x));
+    flex-direction: column-reverse;}
+    .section_slider .row img{        width: 146%;
+      margin-left: -173px;} 
+      .section_slider h1{font-size:22px;text-align: center;}  
+      .section_slider p{font-size: 14px;}  
+      .section_slider p.bottons a{display: block;    font-weight: 400;
+        margin: 0 auto;
+        margin-bottom: 15px;}        
+
+}
+
+
+@media (max-width: 992px) {
+
+}
+
+
+@media (max-width: 1200px) {
+
+}
+
+
+@media (min-width: 1201px) {
+
+}
