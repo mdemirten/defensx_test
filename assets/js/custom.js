@@ -1,14 +1,15 @@
 
 
-  $(document).ready(function(){
+$(document).ready(function(){
   var animation = lottie.loadAnimation({
     container: document.getElementById('lottie-container'),
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: '/assets/animations/DefensX_Side_BY_Side_Animation.json'
+    path: '/defensx_test/assets/animations/DefensX_Side_BY_Side_Animation.json'
   });
 });
+
 
 $(document).ready(function(){
   "use strict";
