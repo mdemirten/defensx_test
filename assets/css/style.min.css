@@ -245,7 +245,7 @@ button:focus:not(:focus-visible) {
 }
 
 .section_slider {
-  background-image: url(/defensx_test/assets/images/homepage/section_slider_bg.jpeg);
+  background-image: url("{{ site.baseurl }}/assets/images/homepage/section_slider_bg.jpeg");
   min-height: 622px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -401,7 +401,7 @@ button:focus:not(:focus-visible) {
 }
 
 #contentbox .section.shadowbg {
-  background-image: url(/defensx_test/assets/images/homepage/browser-icons-background-dotte.png);
+  background-image: url("{{ site.baseurl }}/assets/images/homepage/browser-icons-background-dotte.png");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 500px;
@@ -458,7 +458,7 @@ button:focus:not(:focus-visible) {
 }
 
 #learnmoreBox .container {
-  background-image: url(/defensx_test/assets/images/homepage/DFX-shield-pattern-background.png);
+  background-image: url("{{ site.baseurl }}/assets/images/homepage/DFX-shield-pattern-background.png");
   background-repeat: no-repeat;
   min-height: 527px;
   background-size: contain;
@@ -541,7 +541,7 @@ button:focus:not(:focus-visible) {
 }
 
 footer .container {
-  background-image: url(/defensx_test/assets/images/homepage/footer-bg.jpeg);
+  background-image: url("{{ site.baseurl }}/assets/images/homepage/footer-bg.jpeg");
   background-repeat: no-repeat;
   padding: 46px;
   padding-top: 110px;
