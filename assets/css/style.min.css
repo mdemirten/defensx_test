@@ -603,6 +603,194 @@ footer .divider {
 
 
 
+#formsps{background-image: url("/defensx_test/assets/images/for-msps/MSP_persona_hero_background.jpg");
+min-height: 600px;background-repeat: no-repeat;background-size: cover;display: flex;
+align-items: center;       
+justify-content: center;  
+padding: 40px 0;           
+}
+#formsps .row{display:flex;justify-content: center;}
+#formsps p{font-size: 20px;font-family: 'Roboto', sans-serif;color: #000;font-weight: 400;}
+#formsps h1{font-family: "Plus Jakarta Sans";font-size: 49px;font-weight: 700;margin-bottom: 20px;}
+#formsps p.bottons {
+  line-height: 37px;
+}
+
+#formsps p.bottons a {
+  color: #fff;
+  background-color: #5D0EF5;
+  padding: 4px;
+  width: 245px;
+  border-radius: 10px;
+  display: inline-block;
+  height: 50px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 30px;
+  text-align: center;
+  font-size: 18px;
+  vertical-align: middle;
+  font-weight: 400;
+}
+
+#modern_workspace,
+#any_browser,
+#instant-defense,
+#tree_blue_box,
+#why-are-msp-choosing{padding: 30px 0;   }
+ 
+ 
+
+
+#modern_workspace .feature-box {
+  background-color: #a8c9ff;  
+  border-radius: 12px;
+  padding: 30px 10px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#modern_workspace .feature-box p{font-family: "Plus Jakarta Sans";font-weight: 700;font-size: 18px;}
+#modern_workspace .feature-box .icon img{height:50px}
+#modern_workspace .feature-box .content{width: 162px;margin: 0 auto;    margin-top: 20px;}
+
+.grid-5 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px; /* Elemanlar arası boşluk */
+}
+
+@media (max-width: 992px) {
+  .grid-5 {
+    grid-template-columns: repeat(2, 1fr); /* Mobilde 2'li */
+  }
+}
+.moderm_box{padding-bottom:40px;}
+.moderm_box h2{font-size: 39px;font-weight: 700;}
+
+
+
+#any_browser .row{    display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+
+#any_browser .row p{font-family: 'Roboto', sans-serif;font-size: 20px;}
+#any_browser .row p strong{font-weight: bold;}
+#any_browser .row p strong span{color: #5D0EF5;}
+#any_browser .row h5 {font-size: 20px;}
+#any_browser .row h5 a{color: #5D0EF5;text-decoration: none;}
+
+
+hr#clearfix{color: #000;
+  opacity: 1;}
+
+#instant-defense h2{font-size: 39px;font-weight: 700;margin-bottom:20px;}
+#instant-defense p{font-family: 'Roboto', sans-serif;font-size: 20px;}
+#instant-defense h5 {font-size: 20px;}
+#instant-defense h5 a{color: #5D0EF5;text-decoration: none;}
+
+
+
+
+
+
+#tree_blue_box{background: linear-gradient(360deg, #9BBEF8 0%, #DBE7FC 100%);padding-bottom:200px;}
+#tree_blue_box .row{margin-bottom:100px;}
+#tree_blue_box .text{padding: 40px;}
+#tree_blue_box h2{font-size: 39px;font-weight: 700;margin-bottom:20px;}
+#tree_blue_box p{font-family: 'Roboto', sans-serif;font-size: 20px;}
+#tree_blue_box h5 {font-size: 20px;}
+#tree_blue_box h5 a{color: #000000;text-decoration: none;}
+
+
+
+#download-the-msp-buyer-guide{margin-bottom:50px;}
+#download-the-msp-buyer-guide .container{background-image: url("/defensx_test/assets/images/for-msps/Download-the-Guide-MSP-background.png");
+  min-height: 500px;background-repeat: no-repeat;background-size: cover;display: flex;
+  align-items: center;       
+  justify-content: center;  
+  padding: 50px;
+  margin-top: -100px;border-radius: 10px;    }
+#download-the-msp-buyer-guide .container p{font-family: 'Roboto', sans-serif;font-size: 20px;}
+#download-the-msp-buyer-guide .container h4{font-size: 24px;font-weight: 700;}
+#download-the-msp-buyer-guide .container p.bottons {
+  line-height: 37px;
+}
+
+#download-the-msp-buyer-guide .container p.bottons a {
+  color: #fff;
+  background-color: #5D0EF5;
+  padding: 4px;
+  width: 245px;
+  border-radius: 10px;
+  display: inline-block;
+  height: 50px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 30px;
+  text-align: center;
+  font-size: 18px;
+  vertical-align: middle;
+  font-weight: 400;
+}
+
+
+
+
+#why-are-msp-choosing{}
+#why-are-msp-choosing .bluebox{border: 1px solid var(--Color-Primary-Blue-500, rgba(155, 190, 248, 1));border-radius: 10px;   
+  min-height: 320px;}
+#why-are-msp-choosing .bluebox p{font-size:20px;font-family: 'Roboto', sans-serif;font-weight: 400;}
+#why-are-msp-choosing p.buttons{    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.15);
+  background: rgba(255, 255, 255, 1);
+  display: block;
+  width: 73%;
+  margin: 0 auto;
+  
+  text-align: center;
+  height: 62px;
+  border-radius: 10px;}
+#why-are-msp-choosing p.buttons img{width: 20%;}
+
+
+
+#why-are-msp-choosing .testimonial-box {
+  position: relative;
+}
+
+#why-are-msp-choosing .bluebox {
+  position: relative;
+  background-color: #a8c9ff;
+  border-radius: 10px;
+  padding: 40px;
+  z-index: 1;
+}
+
+/* Arka gölge efekti */
+#why-are-msp-choosing .bluebox::after {
+  content: '';
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 100%;
+  height: 100%;
+  border: 2px solid #a8c9ff;
+  border-radius: 10px;
+  z-index: -1;
+}
+
+/* Alt logolu beyaz kutu */
+#why-are-msp-choosing .logo-box {
+  margin-top: -27px;
+  position: relative;
+  z-index: 99;
+}
+
+#why-are-msp-choosing .logo-box img {
+ 
+}
 
 
 
@@ -702,6 +890,10 @@ footer .container h5{color: #000;font-size: 20px;font-family: "Plus Jakarta Sans
 .section_protection_where-you .container-fluid .col-mds{        display: flex;align-items: center;justify-content: center;height: 130px;width: auto;}
 .section_protection_where-you .container-fluid .col-mds h5{font-size: 17px;}
 .section_protection_where-you{padding-bottom: 20px;}
+hr#clearfix{display: none;}
+#tree_blue_box p img,
+#any_browser .row p img{width: 100%;}
+#tree_blue_box .text {padding: 4px;}
 
 }
 
@@ -796,6 +988,10 @@ footer .container h5{color: #000;font-size: 20px;font-family: "Plus Jakarta Sans
 .section_protection_where-you .container-fluid .col-mds{        display: flex;align-items: center;justify-content: center;height: 130px;width: auto;}
 .section_protection_where-you .container-fluid .col-mds h5{font-size: 17px;}
 .section_protection_where-you{padding-bottom: 20px;}
+hr#clearfix{display: none;}
+#tree_blue_box p img,
+#any_browser .row p img{width: 100%;}
+#tree_blue_box .text {padding: 4px;}
 
 }
 

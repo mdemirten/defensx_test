@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
     <script src="{{ site.baseurl }}/assets/js/jquery-3.6.0.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/owl.carousel.min.js"></script>
@@ -16,7 +16,8 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.min.css"> </head>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.min.css"> 
+  </head>
 
 <body> 
     {% include header.html %}
