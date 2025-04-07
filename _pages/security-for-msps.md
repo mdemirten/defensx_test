@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: start
 title: "Security for MSPs"
 permalink: /security-for-msps/
 ---
