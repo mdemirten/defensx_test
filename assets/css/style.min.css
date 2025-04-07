@@ -609,14 +609,17 @@ align-items: center;
 justify-content: center;  
 padding: 40px 0;           
 }
-#formsps .row{display:flex;justify-content: center;}
-#formsps p{font-size: 20px;font-family: 'Roboto', sans-serif;color: #000;font-weight: 400;}
-#formsps h1{font-family: "Plus Jakarta Sans";font-size: 49px;font-weight: 700;margin-bottom: 20px;}
-#formsps p.bottons {
-  line-height: 37px;
-}
+#formsps .row,
+#forenterprises .row{display:flex;justify-content: center;}
+#formsps p,
+#forenterprises p{font-size: 20px;font-family: 'Roboto', sans-serif;color: #000;font-weight: 400;}
+#formsps h1,
+#forenterprises h1{font-family: "Plus Jakarta Sans";font-size: 49px;font-weight: 700;margin-bottom: 20px;}
+#formsps p.bottons,
+#forenterprises p.bottons {line-height: 37px;}
 
-#formsps p.bottons a {
+#formsps p.bottons a,
+#forenterprises p.bottons a {
   color: #fff;
   background-color: #5D0EF5;
   padding: 4px;
@@ -633,11 +636,19 @@ padding: 40px 0;
   font-weight: 400;
 }
 
+#forenterprises{background-image: url("/defensx_test/assets/images/enterprise/Enterprise-hero-image-background.jpg");
+  min-height: 600px;background-repeat: no-repeat;background-size: cover;display: flex;
+  align-items: center;       
+  justify-content: center;  
+  padding: 40px 0;           
+  }
+
 #modern_workspace,
 #any_browser,
 #instant-defense,
 #tree_blue_box,
-#why-are-msp-choosing{padding: 30px 0;   }
+#why-are-msp-choosing,
+#tree_blue_box_enterprise{padding: 30px 0;   }
  
  
 
@@ -651,6 +662,7 @@ padding: 40px 0;
   flex-direction: column;
   justify-content: center;
 }
+#modern_workspace .enterprises .feature-box{background-color: #F9CCCC; }
 #modern_workspace .feature-box p{font-family: "Plus Jakarta Sans";font-weight: 700;font-size: 18px;}
 #modern_workspace .feature-box .icon img{height:50px}
 #modern_workspace .feature-box .content{width: 162px;margin: 0 auto;    margin-top: 20px;}
@@ -703,6 +715,16 @@ hr#clearfix{color: #000;
 #tree_blue_box p{font-family: 'Roboto', sans-serif;font-size: 20px;}
 #tree_blue_box h5 {font-size: 20px;}
 #tree_blue_box h5 a{color: #000000;text-decoration: none;}
+
+#tree_blue_box_enterprise{background: linear-gradient(180deg, #F9CCCC 0%, #E8B6C8 100%);  padding-bottom:200px;}
+#tree_blue_box_enterprise .row{margin-bottom:100px;}
+#tree_blue_box_enterprise .text{padding: 40px;}
+#tree_blue_box_enterprise h2{font-size: 39px;font-weight: 700;margin-bottom:20px;}
+#tree_blue_box_enterprise p{font-family: 'Roboto', sans-serif;font-size: 20px;}
+#tree_blue_box_enterprise h5 {font-size: 20px;}
+#tree_blue_box_enterprise h5 a{color: #000000;text-decoration: none;}
+
+
 
 
 
@@ -892,8 +914,13 @@ footer .container h5{color: #000;font-size: 20px;font-family: "Plus Jakarta Sans
 .section_protection_where-you{padding-bottom: 20px;}
 hr#clearfix{display: none;}
 #tree_blue_box p img,
+#tree_blue_box_enterprise p img,
 #any_browser .row p img{width: 100%;}
-#tree_blue_box .text {padding: 4px;}
+#tree_blue_box .text,
+#tree_blue_box_enterprise .text {padding: 4px;}
+
+
+
 
 }
 
@@ -990,8 +1017,12 @@ footer .container h5{color: #000;font-size: 20px;font-family: "Plus Jakarta Sans
 .section_protection_where-you{padding-bottom: 20px;}
 hr#clearfix{display: none;}
 #tree_blue_box p img,
+#tree_blue_box_enterprise p img,
 #any_browser .row p img{width: 100%;}
-#tree_blue_box .text {padding: 4px;}
+#tree_blue_box .text,
+#tree_blue_box_enterprise .text {padding: 4px;}
+
+
 
 }
 
