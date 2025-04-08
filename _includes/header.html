@@ -1,5 +1,4 @@
 <header>
-  
   <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
     <div class="container">
       <!-- Logo -->
@@ -7,33 +6,25 @@
         <img src="{{ site.baseurl }}/assets/images/defensX-logo.svg" alt="DefensX Logo" height="40">
       </a>
 
-     
       <!-- Mobile hamburger button -->
       <div id="overlay" class="overlay"></div>
       <button class="navbar-toggler border-0 bg-transparent" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="menu-icon">
-          <!-- Hamburger menü ikonu -->
           <img class="menu-icon-open" src="{{ site.baseurl }}/assets/images/menu-icon-open.svg" alt="Hamburger Menu">
-      
-          <!-- Kapatma ikonu -->
           <img class="menu-icon-close d-none" src="{{ site.baseurl }}/assets/images/menu-icon-close.svg" alt="Close Menu">
         </span>
       </button>
-      
-    
-
 
       <!-- Nav Items -->
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           {% for item in site.nav %}
             {% if item.submenu %}
-              <!-- Solutions: dropdown only on mobile -->
-              <li class="nav-item dropdown d-lg-none">
-                <a class="nav-link dropdown-toggle d-flex justify-content-between align-items-center" href="{{ item.url }}" id="navbarDropdown{{ forloop.index }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <!-- Solutions: dropdown on click for mobile -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" id="navbarDropdown{{ forloop.index }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   {{ item.title }}
                   <span class="dropdown-icon">
-                    <!-- Hamburger menü veya ok ikonunu buraya ekle -->
                     <img src="{{ site.baseurl }}/assets/images/mobile-menu-icon-down.svg" alt="Dropdown Icon">
                   </span>
                 </a>
@@ -43,11 +34,6 @@
                   {% endfor %}
                 </ul>
               </li>
-              
-              <li class="nav-item d-none d-lg-block">
-                <a class="nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-              </li>
-              
             {% else %}
               <!-- Normal menu item -->
               <li class="nav-item {% if forloop.last %}highlight{% endif %}">
@@ -59,6 +45,4 @@
       </div>
     </div>
   </nav>
-  
-  
 </header>

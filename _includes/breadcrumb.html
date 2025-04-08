@@ -1,0 +1,20 @@
+<nav aria-label="breadcrumb" class="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}/solutions/">Solutions</a></li>
+      
+      {% for item in site.nav %}
+        {% if item.url == page.url or page.url contains item.url %}
+          {% if item.submenu %}
+            {% for sub in item.submenu %}
+              {% if sub.url == page.url %}
+                <li class="breadcrumb-item active" aria-current="page">{{ sub.title }}</li>
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            <li class="breadcrumb-item active" aria-current="page">{{ item.title }}</li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </nav>
+  

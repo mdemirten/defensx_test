@@ -135,3 +135,17 @@ $(document).ready(function(){
     carousels();
   })(jQuery);
 });
+
+
+document.querySelectorAll('.nav-item.dropdown').forEach(function (dropdown) {
+  dropdown.addEventListener('click', function (e) {
+    // Tıklanan menüye 'show' sınıfı ekleyerek alt menüyü göster
+    this.classList.toggle('show');
+
+    // İkonu tıklanarak döndürme
+    const icon = this.querySelector('.dropdown-icon');
+    if (icon) {
+      icon.classList.toggle('rotate'); // İkonu döndür
+    }
+  });
+});
