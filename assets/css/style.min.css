@@ -203,7 +203,7 @@ nav .navbar-nav a.dropdown-item {
   font-family: Plus Jakarta Sans;
   font-weight: 400!important;
   font-size: 16px!important;
-  line-height: 100%;
+  line-height: 26px;
   margin-bottom: 10px;
 }
 
@@ -959,6 +959,7 @@ nav.breadcrumb li.breadcrumb-item.active{color:#5D0EF5;font-size: 20px;font-weig
     top: 100%;
     left: 0;
     z-index: 1000;
+    
   }
 
   .dropdown-menu li {
@@ -1005,6 +1006,7 @@ nav.breadcrumb li.breadcrumb-item.active{color:#5D0EF5;font-size: 20px;font-weig
 @media (min-width: 992px) {
   .dropdown-icon {
     display: none; /* Desktop'ta ikon gizlensin */
+  
   }
 }
 
@@ -1057,6 +1059,122 @@ nav.breadcrumb li.breadcrumb-item.active{color:#5D0EF5;font-size: 20px;font-weig
     transform: rotate(180deg); /* Yukarıya doğru ok */
   }
 }
+
+/* Desktop için dropdown menüsünün genişlemesi */
+@media (min-width: 992px) {
+  .nav-item.dropdown {
+    position: relative;
+  }
+
+ 
+  .dropdown-menu {
+    display: none;
+    margin-left: 10px;
+    background-color: #ffffff;
+    border-radius: 0px;
+    box-shadow: none;
+    top: 34px !important;
+    left: 0px !important;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-top: 49px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+
+  }
+
+ 
+  .dropdown-menu li {
+    width: 100%;
+  }
+
+ 
+  .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  
+ 
+  .dropdown-toggle::after {
+    content: "▼";
+    margin-left: 8px;
+    font-size: 12px;
+  }
+}
+
+ 
+.dropdown-toggle {
+  border-bottom: 1px solid #000 !important;
+}
+ 
+
+
+
+ 
+@media (max-width: 992px) {
+  .dropdown-menu {
+    display: block;  
+  }
+  .dropdown-menu li {
+    width: 100%;  
+  }
+}
+ 
+@media (min-width: 992px) {
+  .dropdown-menu {
+    column-count: 2;
+    column-gap: 20px;  
+  }
+  .dropdown-menu li {
+    break-inside: avoid;  
+    
+  }
+}
+
+ 
+@media (max-width: 991px) {
+  .dropdown-menu {
+    column-count: 1;
+  }
+}
+
+
+.dropdown-menu li {
+  padding: 4px;
+}
+.dropdown-menu li a{padding:4px;border-bottom:1px solid #fff;}
+.dropdown-menu li a:hover{    
+  background: none;
+  border-bottom: 1px solid #5D0EF5;
+  color: #5D0EF5 !important;}
+
+
+
+
+
+ul.navbar-nav li{padding: 10px;}
+ul.navbar-nav li a{padding: 0px!important;line-height: 22px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
