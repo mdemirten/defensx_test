@@ -967,40 +967,7 @@ nav.breadcrumb li.breadcrumb-item.active{color:#5D0EF5;font-size: 20px;font-weig
   }
 }
 
-/* Mobile için alt menüyü tıklanabilir yapmak */
-@media (max-width: 991px) {
-  .dropdown-menu {
-    display: none; /* Başlangıçta gizli */
-    position: relative;
-  }
 
-  .dropdown.show .dropdown-menu {
-    display: block; /* Tıklandığında göster */
-  }
-}
-/* Mobile için alt menü gizli */
-@media (max-width: 991px) {
-  .dropdown-menu {
-    display: none; /* Başlangıçta gizli */
-    position: relative;
-  }
-
-  /* Tıklandığında alt menüyü göster */
-  .dropdown.show .dropdown-menu {
-    display: block;
-  }
-
-  /* Dropdown ikonu sağda olacak */
-  .dropdown-icon {
-    margin-left: 8px;
-    transition: transform 0.3s;
-  }
-
-  /* İkon döndürme (aşağıya doğru ok simgesi) */
-  .dropdown.show .dropdown-icon {
-    transform: rotate(180deg);
-  }
-}
 
 /* Desktop için dropdown ikonu gizleniyor */
 @media (min-width: 992px) {
@@ -1010,19 +977,6 @@ nav.breadcrumb li.breadcrumb-item.active{color:#5D0EF5;font-size: 20px;font-weig
   }
 }
 
-/* Mobile için ikon gösterilsin */
-@media (max-width: 991px) {
-  .dropdown-icon {
-    display: inline-block; /* Mobile için ikon görünür */
-    margin-left: 8px;
-    transition: transform 0.3s;
-  }
-
-  /* İkon döndürme (aşağıya doğru ok simgesi) */
-  .dropdown.show .dropdown-icon {
-    transform: rotate(180deg);
-  }
-}
 
 
 /* Desktop için dropdown ikonu gizleniyor */
@@ -1032,33 +986,7 @@ nav.breadcrumb li.breadcrumb-item.active{color:#5D0EF5;font-size: 20px;font-weig
   }
 }
 
-/* Mobile için ikon gösterilsin */
-@media (max-width: 991px) {
-  .dropdown-icon {
-    display: inline-block; /* Mobile için ikon görünür */
-    margin-left: 8px;
-    transition: transform 0.3s;
-  }
 
-  /* İkon döndürme (aşağıya doğru ok simgesi) */
-  .dropdown.show .dropdown-icon {
-    transform: rotate(180deg)!important; /* Yukarıya doğru ok */
-  }
-}
-
-/* Mobile için ikon gösterilsin */
-@media (max-width: 991px) {
-  .dropdown-icon {
-    display: inline-block; /* Mobile için ikon görünür */
-    margin-left: 8px;
-    transition: transform 0.3s;
-  }
-
-  /* İkon döndürme (aşağıya doğru ok simgesi) */
-  .dropdown-icon.rotate {
-    transform: rotate(180deg); /* Yukarıya doğru ok */
-  }
-}
 
 /* Desktop için dropdown menüsünün genişlemesi */
 @media (min-width: 992px) {
@@ -1159,8 +1087,80 @@ ul.navbar-nav li a{padding: 0px!important;line-height: 22px;}
 
 
 
+ 
+@media (max-width: 991px) {
+  .dropdown-icon {
+    display: inline-block;  
+    margin-left: 8px;
+    transition: transform 0.3s;
+  }
 
+  
+  .dropdown.show .dropdown-icon {
+    transform: rotate(180deg)!important; 
+  }
+}
 
+ 
+@media (max-width: 991px) {
+  .dropdown-icon {
+    display: inline-block;  
+    margin-left: 8px;
+    transition: transform 0.3s;
+  }
+
+  
+  .dropdown-icon.rotate {
+    transform: rotate(180deg); 
+  }
+}
+ 
+@media (max-width: 991px) {
+  .dropdown-icon {
+    display: inline-block;  
+    margin-left: 8px;
+    transition: transform 0.3s;
+  }
+
+   
+  .dropdown.show .dropdown-icon {
+    transform: rotate(180deg);
+  }
+}
+ 
+@media (max-width: 991px) {
+  .dropdown-menu {
+    display: none;  
+    position: relative;
+  }
+
+  .dropdown.show .dropdown-menu {
+    display: block;  
+  }
+}
+ 
+@media (max-width: 991px) {
+  .dropdown-menu {
+    display: none;  
+    position: relative;
+  }
+
+ 
+  .dropdown.show .dropdown-menu {
+    display: block;
+  }
+
+ 
+  .dropdown-icon {
+    margin-left: 8px;
+    transition: transform 0.3s;
+  }
+
+ 
+  .dropdown.show .dropdown-icon {
+    transform: rotate(180deg);
+  }
+}
 
 
 
