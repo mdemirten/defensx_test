@@ -1374,7 +1374,8 @@ ul.navbar-nav li a {
 
 
 .resources #slider,
-.team #slider  {
+.team #slider,
+.terms-conditions #slider  {
   background-image: url(/defensx_test/assets/images/resources/resources-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1383,7 +1384,8 @@ height: 371px;display: flex;
   align-items: center;  text-align: center;      
 }
 .resources #slider h1,
-.team #slider h1{font-size: 49px;font-weight: 700;}
+.team #slider h1,
+.terms-conditions #slider h1{font-size: 49px;font-weight: 700;}
 .resources #slider p{font-size: 20px;font-weight: 400;}
 
 .resources #blog-thumbnail .row.blog-categories-link{}
@@ -1513,8 +1515,9 @@ border-radius: 10px;
     .blog_post #slider .blog-hero .col-md-10{margin: 0 auto;}
     
  
-    .blog_post main {
-      margin-top: 160px;
+    .blog_post main,
+    .terms-conditions main {
+      margin: 160px 0;
     }
     .blog_post main .container{}
     .blog_post main .container .col-md-10,
@@ -1591,20 +1594,70 @@ border-radius: 10px;
 }
 
 
+.terms-conditions main .container h4{font-size: 28px;font-weight: 700;margin-top:30px;}
+.terms-conditions main .container h5{font-size: 25px;font-weight: 700;margin-top:30px;}
+.terms-conditions main .container p{font-size:20px;font-weight: 400;}
+.terms-conditions main .container p a,
+.terms-conditions main .container ul li a{font-size: 20px;
+  text-decoration: none;
+  color: #5D0EF5;}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+  #endpoint-installation-success main{width: 100%;}
+  #endpoint-installation-success {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    background: #d9e2e6;
+}
+#endpoint-installation-success #container {
+  overflow: auto;
+}
+#endpoint-installation-success .stripe {
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  transform: skewY(-12deg);
+  transform-origin: 0;
+  background: #e8eef1;
+  height: 58%;
+  top: 0;
+}
+#endpoint-installation-success .devise-box {
+  position: relative;
+  display: flex
+;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -125px;
+  flex-wrap: nowrap;
+  height: 100vh;
+  justify-content: center;
+}
+#endpoint-installation-success .devise-box .logo {
+  width: 134px;
+  height: 134px;
+  background: url(/defensx_test/assets/images/defensx-install-bg-v2.png) no-repeat 50% 50%;
+  margin-bottom: 3rem;
+  background-size: contain;
+}
+#endpoint-installation-success .card {
+  position: relative;
+  width: 400px;
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 3px 3px -1px rgb(0 0 0 / 20%);
+  height: auto;
+}
+#endpoint-installation-success .card h3 {
+  margin-bottom: 10px;font-size:30px;font-weight: 700;
+}
+#endpoint-installation-success .card p {
+  margin-bottom: 0px;
+}
 
 
 
