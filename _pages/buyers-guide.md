@@ -26,7 +26,7 @@ permalink: /buyers-guide/
         <div class="row blog-categories-link">
             <div class="col-md-12">
                 <ul>
-                    <li class="blog-active"><a href="{{ site.baseurl }}/blog/">Blogs</a></li>
+                    <li class="blog-active"><a href="{{ site.baseurl }}/resources/">Blogs</a></li>
                     <li class="news-active"><a href="{{ site.baseurl }}/news/">News</a></li>
                     <li class="whitepapers-active"><a href="{{ site.baseurl }}/whitepapers/">Whitepapers</a></li>
                     <li class="datasheets-active"><a href="{{ site.baseurl }}/datasheets/">Datasheets</a></li>
