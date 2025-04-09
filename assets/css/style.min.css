@@ -1373,7 +1373,8 @@ ul.navbar-nav li a {
 
 
 
-.resources #slider {
+.resources #slider,
+.team #slider  {
   background-image: url(/defensx_test/assets/images/resources/resources-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1381,7 +1382,8 @@ height: 371px;display: flex;
   justify-content: center;   
   align-items: center;  text-align: center;      
 }
-.resources #slider h1{font-size: 49px;font-weight: 700;}
+.resources #slider h1,
+.team #slider h1{font-size: 49px;font-weight: 700;}
 .resources #slider p{font-size: 20px;font-weight: 400;}
 
 .resources #blog-thumbnail .row.blog-categories-link{}
@@ -1560,6 +1562,89 @@ border-radius: 10px;
     vertical-align: middle;
     font-weight: 400;
 }
+
+
+#team_board{}
+#team_board .row{padding-top:60px;margin-bottom:20px;}
+#team_board .row.executive-team{padding-bottom:200px;}
+#team_board .col-md-3 .image img{width: 100%;border-radius: 10px;}
+#team_board .col-md-3 .text{    display: flex;justify-content: space-between;margin-top: 10px;}
+#team_board .col-md-3 .text p{font-size: 20px;font-weight: 400;}
+#team_board .col-md-3 .text p strong{font-weight: bold;}
+#team_board .section-title {
+  display: flex;
+  align-items: center;
+  gap: 16px;  
+  margin-bottom:40px;
+}
+
+#team_board .section-title h2 {
+  font-weight: 700;
+  margin: 0;
+  white-space: nowrap;  
+}
+
+#team_board .section-title .line {
+  flex-grow: 1;
+  height: 1px;
+  background-color: #6f3eff;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1826,7 +1911,11 @@ border-radius: 10px;
   .blog_post main .container .pt100 .col-md-10 h2{font-size:28px;}
   .blog_post main .container .pt100 .col-md-10 p{font-size: 14px;}
   .blog_post main .container .pt100 .col-md-10 p.bottons a{width: 160px;font-size: 14px;}
-
+  #team_board .row.board-members .col-md-3,
+  #team_board .row.executive-team .col-md-3{width: 50%;}
+  #team_board .col-md-3 .text p{font-size: 12px;font-weight: 400;}
+  #team_board .section-title h2{font-size: 22px;}
+  #team_board .section-title {display: flex;align-items: stretch;gap: 16px;margin-bottom: 40px;flex-direction: column;flex-wrap: nowrap;}
 
 
 }
@@ -2101,6 +2190,11 @@ border-radius: 10px;
   .blog_post main .container .pt100 .col-md-10 h2{font-size:28px;}
   .blog_post main .container .pt100 .col-md-10 p{font-size: 14px;}
   .blog_post main .container .pt100 .col-md-10 p.bottons a{width: 160px;font-size: 14px;}
+  #team_board .row.board-members .col-md-3,
+  #team_board .row.executive-team .col-md-3{width: 50%;}
+  #team_board .col-md-3 .text p{font-size: 12px;font-weight: 400;}
+  #team_board .section-title h2{font-size: 22px;}
+  #team_board .section-title {display: flex;align-items: stretch;gap: 16px;margin-bottom: 40px;flex-direction: column;flex-wrap: nowrap;}
 
 
 }
