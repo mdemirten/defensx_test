@@ -39,7 +39,7 @@ permalink: /resources/
         <div class="row thumbnail">
             <div class="col-md-4 blog-post visible lozad">
                 <div class="image">
-                    <p><a href="/blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/"><img src="{{ site.baseurl }}/assets/images/blog/DefensX_Adware_Blog_-thumbnain.jpg"></a></p>
+                    <p><a href="{{ site.baseurl }}/blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/"><img src="{{ site.baseurl }}/assets/images/blog/DefensX_Adware_Blog_-thumbnain.jpg"></a></p>
                 </div>
                 <div class="text">
                     <div class="subTitle">
@@ -47,7 +47,7 @@ permalink: /resources/
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
-                        <p><a href="/blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
+                        <p><a href="{{ site.baseurl }}/blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
                     </div>
                 </div>
             </div>
