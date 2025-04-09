@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: cloud.defensx.com
+Disallow: dev.defensx.com

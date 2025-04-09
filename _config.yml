@@ -56,3 +56,4 @@ include:
   - _pages
   - "/defensx_test/assets/animations/DefensX_Side_BY_Side_Animation_V2.json"
   - "/defensx_test/assets/animations/DefensX_Mobile_Animation_V2.json"
+  - "robots.txt"
