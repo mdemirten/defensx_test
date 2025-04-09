@@ -68,7 +68,7 @@ $(document).ready(function(){
     autoplay:true,
     navBy: 1,
     nav:false,
-    autoplayTimeout: 4000,
+    autoplayTimeout: 5000,
     autoplayHoverPause: false,
     smartSpeed: 4000,
     responsive:{
@@ -106,9 +106,10 @@ $(document).ready(function(){
     autoplay:true,
     navBy: 1,
     nav:false,
-    autoplayTimeout: 3000,
+    autoplayTimeout: 5000,
     autoplayHoverPause: false,
     smartSpeed: 4000,
+    rtl: true,
     responsive:{
       0:{
         items:2
