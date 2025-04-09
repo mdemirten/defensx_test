@@ -1,7 +1,7 @@
 ---
-layout: resources
-title: "Resources"
-permalink: /resources/
+layout: datasheets
+title: "Datasheets"
+permalink: /datasheets/
 ---
 
 <div id="slider">
@@ -43,7 +43,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -58,7 +58,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -73,7 +73,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -87,7 +87,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -102,7 +102,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -117,7 +117,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -135,7 +135,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -150,7 +150,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -165,7 +165,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -179,7 +179,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -194,7 +194,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -209,7 +209,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -223,7 +223,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -238,7 +238,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -253,7 +253,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Blog</p>
+                        <p>Datasheets</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>

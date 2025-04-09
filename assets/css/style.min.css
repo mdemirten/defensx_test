@@ -1374,7 +1374,7 @@ ul.navbar-nav li a {
 
 
 
-.resources_page #slider {
+.resources #slider {
   background-image: url(/defensx_test/assets/images/resources/resources-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1382,31 +1382,39 @@ height: 371px;display: flex;
   justify-content: center;   
   align-items: center;  text-align: center;      
 }
-.resources_page #slider h1{font-size: 49px;font-weight: 700;}
-.resources_page #slider p{font-size: 20px;font-weight: 400;}
+.resources #slider h1{font-size: 49px;font-weight: 700;}
+.resources #slider p{font-size: 20px;font-weight: 400;}
 
-.resources_page #blog-thumbnail .row.blog-categories-link{}
-.resources_page #blog-thumbnail .row.blog-categories-link ul{    list-style: none;margin: 0px;padding: 0px;}
-.resources_page #blog-thumbnail .row.blog-categories-link ul li{    float: left;margin-right:20px;}
-.resources_page #blog-thumbnail .row.blog-categories-link ul li a{
+.resources #blog-thumbnail .row.blog-categories-link{}
+.resources #blog-thumbnail .row.blog-categories-link ul{    list-style: none;margin: 0px;padding: 0px;}
+.resources #blog-thumbnail .row.blog-categories-link ul li{    float: left;margin-right:20px;}
+.resources #blog-thumbnail .row.blog-categories-link ul li a{
   padding: 10px;
   border-radius: 10px;
   color: #000;
   text-decoration: none;font-size:20px;font-weight: 700;border:1px solid #5D0EF5;}
+
+
 .resources_page #blog-thumbnail .row.blog-categories-link ul li.blog-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
-.resources_page #blog-thumbnail .row.blog-categories-link ul li a:hover{background: #EBE9F8;}
+.news_page #blog-thumbnail .row.blog-categories-link ul li.news-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.whitepapers_page #blog-thumbnail .row.blog-categories-link ul li.whitepapers-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.datasheets_page #blog-thumbnail .row.blog-categories-link ul li.datasheets-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.buyers-guide_page #blog-thumbnail .row.blog-categories-link ul li.buyers-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.events_page #blog-thumbnail .row.blog-categories-link ul li.events-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+
+.resources #blog-thumbnail .row.blog-categories-link ul li a:hover{background: #EBE9F8;}
 
 
-.resources_page #blog-thumbnail .row.thumbnail{margin-top:50px;}
-.resources_page #blog-thumbnail{padding: 50px 0;}
-.resources_page #blog-thumbnail .image {
+.resources #blog-thumbnail .row.thumbnail{margin-top:50px;}
+.resources #blog-thumbnail{padding: 50px 0;}
+.resources #blog-thumbnail .image {
   position: relative;
   border-radius: 10px;
   padding: 0px;
   z-index: 1;margin-bottom:20px;
 }
  
-.resources_page #blog-thumbnail .image::after {
+.resources #blog-thumbnail .image::after {
   content: '';
   position: absolute;
   top: 8px;
@@ -1417,47 +1425,42 @@ height: 371px;display: flex;
   border-radius: 10px;
   z-index: -1;
 }
-.resources_page #blog-thumbnail .image p{margin-bottom:0px;}
-.resources_page #blog-thumbnail .image p img{width: 100%;}
+.resources #blog-thumbnail .image p{margin-bottom:0px;}
+.resources #blog-thumbnail .image p img{width: 100%;}
 
-.resources_page #blog-thumbnail .text{}
-.resources_page #blog-thumbnail .text .subTitle{}
-.resources_page #blog-thumbnail .text .subTitle p{    font-size: 20px;font-weight: 400;}
-.resources_page #blog-thumbnail .text .title{}
-.resources_page #blog-thumbnail .text .title h4{font-size: 25px;font-weight: 700;display: block;    min-height: 100px;}
-.resources_page #blog-thumbnail .text .title p{}
-.resources_page #blog-thumbnail .text .title p a{font-size: 20px;
+.resources #blog-thumbnail .text{}
+.resources #blog-thumbnail .text .subTitle{}
+.resources #blog-thumbnail .text .subTitle p{    font-size: 20px;font-weight: 400;}
+.resources #blog-thumbnail .text .title{}
+.resources #blog-thumbnail .text .title h4{font-size: 25px;font-weight: 700;display: block;    min-height: 100px;}
+.resources #blog-thumbnail .text .title p{}
+.resources #blog-thumbnail .text .title p a{font-size: 20px;
   text-decoration: none;
   color: #5D0EF5;}
-
-
  
- 
-
- 
-.resources_page #blog-thumbnail .blog-post {
+.resources #blog-thumbnail .blog-post {
   opacity: 0;
   transition: opacity 0.3s ease;
   display: none;
 }
 
  
-.resources_page #blog-thumbnail .blog-post:not(.visible) {
+.resources #blog-thumbnail .blog-post:not(.visible) {
   display: none;
 }
 
  
-.resources_page #blog-thumbnail .blog-post.visible {
+.resources #blog-thumbnail .blog-post.visible {
   opacity: 1;
   display: block;
 }
 
  
-.resources_page #blog-thumbnail .blog-post.fade {
+.resources #blog-thumbnail .blog-post.fade {
   opacity: 1;
 }
 
-.resources_page #blog-thumbnail #load-more{    width: 200px;
+.resources #blog-thumbnail #load-more{    width: 200px;
   text-align: center;
   display: block;
   margin: 0 auto;
