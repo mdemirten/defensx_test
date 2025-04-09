@@ -138,4 +138,43 @@ $(document).ready(function(){
 });
 
 
- 
+document.addEventListener("DOMContentLoaded", function() {
+  // Lozad.js ile lazy load'u başlatıyoruz
+  const observer = lozad('.lozad', {
+    loaded: function(el) {
+      el.classList.add('fade');  // İçeriği yükledikten sonra fade efekti ekle
+    }
+  });
+  observer.observe();
+
+  // İlk başta ilk 6 blog yazısı görünsün
+  const blogPosts = document.querySelectorAll('.blog-post');
+  const loadMoreButton = document.getElementById('load-more');
+  let visibleCount = 6;  // İlk başta 6 öğe görünsün
+
+  // İlk başta yalnızca 6 öğe görünür olacak
+  blogPosts.forEach((post, index) => {
+    if (index < visibleCount) {
+      post.classList.add('visible');
+    } else {
+      post.classList.remove('visible');
+    }
+  });
+
+  // "See More" butonuna tıklanınca yeni öğeler gösterilecek
+  loadMoreButton.addEventListener('click', function() {
+    const hiddenPosts = document.querySelectorAll('.blog-post:not(.visible)');
+
+    // Yeni öğeler gösteriliyor
+    hiddenPosts.forEach((post, index) => {
+      if (index < 6) {  // Her tıklamada 6 öğe göster
+        post.classList.add('visible');
+      }
+    });
+
+    // Eğer daha fazla gizli öğe yoksa butonu gizle
+    if (document.querySelectorAll('.blog-post:not(.visible)').length === 0) {
+      loadMoreButton.style.display = 'none'; // Buton kaybolacak
+    }
+  });
+});

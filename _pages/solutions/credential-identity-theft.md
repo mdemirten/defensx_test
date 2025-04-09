@@ -78,6 +78,6 @@ permalink: /solutions/credential-identity-theft/
     </div>    
 </div>
 
-{% include solutions-blog-content.html %}
-
 {% include lets-chat.html %}
+
+{% include solutions-blog-content.html %}

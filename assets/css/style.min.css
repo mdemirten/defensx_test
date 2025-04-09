@@ -913,8 +913,8 @@ hr#clearfix {
   padding: 40px;
   z-index: 1;
 }
-
-
+#why-are-msp-choosing.enterprises .bluebox{background-color: #F9CCCC;border: 1px solid #F9CCCC;}
+#why-are-msp-choosing.enterprises .bluebox::after{border: 2px solid #F9CCCC;}
 /* Arka gölge efekti */
 
 #why-are-msp-choosing .bluebox::after {
@@ -1032,10 +1032,12 @@ nav.breadcrumb li.breadcrumb-item.active {
   padding: 90px;
   min-height: 591px;
   margin-bottom: 20px;
-  display: flex;
+  display: flex
+;
   flex-direction: column;
   align-items: center;
-  justify-content: center
+  justify-content: flex-start;
+  flex-wrap: nowrap;
 }
 
 #solutions_four_box .one .content,
@@ -1372,25 +1374,99 @@ ul.navbar-nav li a {
 
 
 
+.resources_page #slider {
+  background-image: url(/defensx_test/assets/images/resources/resources-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+height: 371px;display: flex;
+  justify-content: center;   
+  align-items: center;  text-align: center;      
+}
+.resources_page #slider h1{font-size: 49px;font-weight: 700;}
+.resources_page #slider p{font-size: 20px;font-weight: 400;}
+
+.resources_page #blog-thumbnail .row.blog-categories-link{}
+.resources_page #blog-thumbnail .row.blog-categories-link ul{    list-style: none;margin: 0px;padding: 0px;}
+.resources_page #blog-thumbnail .row.blog-categories-link ul li{    float: left;margin-right:20px;}
+.resources_page #blog-thumbnail .row.blog-categories-link ul li a{
+  padding: 10px;
+  border-radius: 10px;
+  color: #000;
+  text-decoration: none;font-size:20px;font-weight: 700;border:1px solid #5D0EF5;}
+.resources_page #blog-thumbnail .row.blog-categories-link ul li.blog-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.resources_page #blog-thumbnail .row.blog-categories-link ul li a:hover{background: #EBE9F8;}
 
 
+.resources_page #blog-thumbnail .row.thumbnail{margin-top:50px;}
+.resources_page #blog-thumbnail{padding: 50px 0;}
+.resources_page #blog-thumbnail .image {
+  position: relative;
+  border-radius: 10px;
+  padding: 0px;
+  z-index: 1;margin-bottom:20px;
+}
+ 
+.resources_page #blog-thumbnail .image::after {
+  content: '';
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 100%;
+  height: 100%;
+  border: 2px solid #5D0EF5;
+  border-radius: 10px;
+  z-index: -1;
+}
+.resources_page #blog-thumbnail .image p{margin-bottom:0px;}
+.resources_page #blog-thumbnail .image p img{width: 100%;}
+
+.resources_page #blog-thumbnail .text{}
+.resources_page #blog-thumbnail .text .subTitle{}
+.resources_page #blog-thumbnail .text .subTitle p{    font-size: 20px;font-weight: 400;}
+.resources_page #blog-thumbnail .text .title{}
+.resources_page #blog-thumbnail .text .title h4{font-size: 25px;font-weight: 700;display: block;    min-height: 100px;}
+.resources_page #blog-thumbnail .text .title p{}
+.resources_page #blog-thumbnail .text .title p a{font-size: 20px;
+  text-decoration: none;
+  color: #5D0EF5;}
 
 
+ 
+ 
 
+ 
+.resources_page #blog-thumbnail .blog-post {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  display: none;
+}
 
+ 
+.resources_page #blog-thumbnail .blog-post:not(.visible) {
+  display: none;
+}
 
+ 
+.resources_page #blog-thumbnail .blog-post.visible {
+  opacity: 1;
+  display: block;
+}
 
+ 
+.resources_page #blog-thumbnail .blog-post.fade {
+  opacity: 1;
+}
 
-
-
-
-
-
-
-
-
-
-
+.resources_page #blog-thumbnail #load-more{    width: 200px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background: #5D0EF5;
+  border: 1px solid #5D0EF5;
+  padding: 14px;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 20px;}
 
 
 
@@ -1625,7 +1701,7 @@ ul.navbar-nav li a {
       width: 75%;
       margin: 0 auto;
       margin-bottom: 30px;
-      min-height: 415px;
+      min-height: 346px;
   }
   #solutions_four_box .col-md-6 .content .text h3 {
       font-size: 18px;
@@ -1669,6 +1745,7 @@ ul.navbar-nav li a {
   .section_slider {
       background-position: center;
   }
+  #solutions_four_box .col-md-6 .content .icon {min-height: 66px;}
 }
 
 
@@ -1883,7 +1960,7 @@ ul.navbar-nav li a {
       width: 75%;
       margin: 0 auto;
       margin-bottom: 30px;
-      min-height: 415px;
+      min-height: 346px;
   }
   #solutions_four_box .col-md-6 .content .text h3 {
       font-size: 18px;
@@ -1927,6 +2004,9 @@ ul.navbar-nav li a {
   .section_slider {
       background-position: center;
   }
+  #solutions_four_box .col-md-6 .content .icon {min-height: 66px;}
+
+
 }
 
 @media (max-width: 992px) {}

@@ -248,7 +248,7 @@ Modern Threats on Any Browser"></p>
 </div>
 
 
-<div id="why-are-msp-choosing">
+<div id="why-are-msp-choosing" class="enterprises">
     <div class="container py-5">
         <div class="moderm_box text-center">
             <h2>Why are Enterprises are choosing DefensX?</h2> </div>
