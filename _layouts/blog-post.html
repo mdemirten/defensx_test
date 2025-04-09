@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="blog_post">
+
+  {% include header.html %}
+
+<div id="slider">
+  <div class="blog-hero">
+    <div class="container">
+      <div class="col-md-10 text-left">
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.author }} | {{ page.date | date: "%B %d, %Y" }}</p>
+    </div>
+  </div>
+  </div>
+  <div class="hero-image-wrapper">
+    <div class="container">
+      <div class="col-md-10 text-left">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }} cover image" class="blog-cover-image">
+  </div>
+</div>
+</div>
+</div>
+
+<main>
+   
+ <div class="container">
+  <div class="row">
+    <div class="col-md-10">
+
+<div class="left_box">
+  {{ content }}
+</div>
+
+<div class="right_box">
+  {% include blog-right-aside.html %}
+</div>
+
+      
+    </div>
+     
+  </div>
+
+  <div class="row pt100">
+    <div class="col-md-10">
+      <div class="text">
+      <h2>Ready to enhance your data security strategy?</h2>
+      <p>Contact DefensX today to learn how AI-powered web DLP can protect your business!</p>
+      <p class="bottons"><a href="#">Contact Us</a></p>
+    </div>
+    </div>
+  </div>
+
+ </div>
+
+
+
+ 
+</main>
+  
+
+
+  {% include footer.html %}  
+
+ 
+</body>
+
+</html>

@@ -103,7 +103,7 @@ a {
   font-family: "Plus Jakarta Sans";
   font-weight: 700;
   font-size: 16px;
-  line-height: 100%;
+  line-height: 22px;
   letter-spacing: 0%;
   text-align: center;
   color: #5D0EF5!important;
@@ -612,7 +612,7 @@ footer .divider {
 
 #formsps p.bottons,
 #forenterprises p.bottons {
-  line-height: 37px;
+  line-height: 40px;
 }
 
 #formsps p.bottons a,
@@ -1179,7 +1179,7 @@ nav.breadcrumb li.breadcrumb-item.active {
       border-radius: 0.25rem;
       top: 100%;
       left: 0;
-      z-index: 1000;
+      z-index: 1000;transition: opacity 0.5s ease, max-height 0.5s ease;
   }
   .dropdown-menu li {
       width: auto;
@@ -1339,7 +1339,7 @@ ul.navbar-nav li a {
 @media (max-width: 991px) {
   .dropdown-menu {
       display: none;
-      position: relative;
+      position: relative;transition: opacity 0.5s ease, max-height 0.5s ease;
   }
   .dropdown.show .dropdown-menu {
       display: block;
@@ -1353,8 +1353,7 @@ ul.navbar-nav li a {
   }
 }
 
-
-
+.dropdown-menu{transition: opacity 0.5s ease, max-height 0.5s ease;}
 
 
 
@@ -1477,25 +1476,90 @@ height: 371px;display: flex;
 
 
 
+  .blog_post #slider{
+    background-image: url(/defensx_test/assets/images/blog/hero-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 0;
+    text-align: center;
+    position: relative;   
+  }
+  .blog-hero .container {
+  
+  }
+  .blog_post #slider .blog-hero{  padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;}
 
+    .hero-image-wrapper {
+      position: relative;
+    z-index: 2;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    }
+    .blog-cover-image {
+      width: 100%;
+      max-width: 1000px;
+border-radius: 10px;
+    }
 
+    .blog_post #slider .blog-hero h1{font-size:49px;font-weight: 700;text-align: left;margin-bottom:20px;}  
+    .blog_post #slider .blog-hero p{font-size:20px;font-weight: 400;text-align: left;}     
+    .blog_post #slider .blog-hero .col-md-10{margin: 0 auto;}
+    
+ 
+    .blog_post main {
+      margin-top: 160px;
+    }
+    .blog_post main .container{}
+    .blog_post main .container .col-md-10,
+    .hero-image-wrapper .container .col-md-10{    display: flex;margin: 0 auto;flex-direction: row;justify-content: space-between;}
+    .blog_post main .container .col-md-10 .left_box p{font-size: 20px;font-weight: 400;}
+    .blog_post main .container .col-md-10 .left_box{width:65%;}
+    .blog_post main .container .col-md-10 .left_box p a{color: #5D0EF5;text-decoration: none;}
+    .blog_post main .container .col-md-10 .right_box{  width:30%;  border-radius: 10px;padding: 20px;}
+    .blog_post main .container .col-md-10 .right_box .blog-other-links{    background: #EBE9F8;padding: 30px;border-radius: 10px;}
+    .blog_post main .container .col-md-10 .right_box ul{list-style:none;margin:0;padding: 0;}
+    .blog_post main .container .col-md-10 .right_box ul li{margin-left: 0px;padding-left: 0px;margin-bottom:20px;}
+    .blog_post main .container .col-md-10 .right_box ul li a{color: #000;text-decoration: none;font-size: 20px;font-weight: 700;}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .blog_post main .container .pt100{}
+    .blog_post main .container .pt100 .col-md-10{    display: flex;
+          text-align: center;
+          margin: 0 auto;
+          flex-direction: column;
+          justify-content: center;
+          background: #EBE9F8;
+          height: 340px;
+          padding: 10px;
+          border-radius: 10px;
+          margin-top: 50px;
+          margin-bottom: 50px;}
+    .blog_post main .container .pt100 .col-md-10 .text{width: 60%;margin:0 auto;}
+    .blog_post main .container .pt100 .col-md-10 h2{font-size:39px;font-weight: 700;margin-bottom:20px;}
+    .blog_post main .container .pt100 .col-md-10 p{font-size:20px;font-weight: 400;}
+    .blog_post main .container .pt100 .col-md-10 p.bottons {
+      line-height: 37px;
+  }
+  .blog_post main .container .pt100 .col-md-10 p.bottons a {
+    color: #fff;
+    background-color: #5D0EF5;
+    padding: 4px;
+    width: 245px;
+    border-radius: 10px;
+    display: inline-block;
+    height: 50px;
+    text-decoration: none;
+    font-family: "Plus Jakarta Sans";
+    margin-right: 30px;
+    text-align: center;
+    font-size: 18px;
+    vertical-align: middle;
+    font-weight: 400;
+}
 
 
 
@@ -1749,6 +1813,22 @@ height: 371px;display: flex;
       background-position: center;
   }
   #solutions_four_box .col-md-6 .content .icon {min-height: 66px;}
+  .blog_post main .container .col-md-10, .hero-image-wrapper .container .col-md-10 {display: flex;margin: 0 auto;flex-direction: column-reverse;justify-content: space-between;}
+  .blog_post main .container .col-md-10 .right_box {width: 100%;border-radius: 10px;padding: 20px;}
+  .blog_post main .container .col-md-10 .left_box {width: 88%;margin: 0 auto;}
+  .blog_post #slider .blog-hero h1 {font-size: 22px;font-weight: 700;text-align: center;margin-bottom: 20px;}
+  .blog_post #slider .blog-hero p {font-size: 13px;font-weight: 400;text-align: center;}
+  .hero-image-wrapper{top:40px;}
+  .blog_post main {margin-top: 60px;}
+  .blog_post main .container .col-md-10 .left_box p{font-size: 14px;}
+  .blog_post main .container .pt100 .col-md-10{border-radius: 0px;}
+  .blog_post main .container .pt100 .col-md-10 .text{width: 100%;}
+  .blog_post main .container .pt100 .col-md-10 h2{font-size:28px;}
+  .blog_post main .container .pt100 .col-md-10 p{font-size: 14px;}
+  .blog_post main .container .pt100 .col-md-10 p.bottons a{width: 160px;font-size: 14px;}
+
+
+
 }
 
 
@@ -2008,6 +2088,19 @@ height: 371px;display: flex;
       background-position: center;
   }
   #solutions_four_box .col-md-6 .content .icon {min-height: 66px;}
+  .blog_post main .container .col-md-10, .hero-image-wrapper .container .col-md-10 {display: flex;margin: 0 auto;flex-direction: column-reverse;justify-content: space-between;}
+  .blog_post main .container .col-md-10 .right_box {width: 100%;border-radius: 10px;padding: 20px;}
+  .blog_post main .container .col-md-10 .left_box {width: 88%;margin: 0 auto;}
+  .blog_post #slider .blog-hero h1 {font-size: 22px;font-weight: 700;text-align: center;margin-bottom: 20px;}
+  .blog_post #slider .blog-hero p {font-size: 13px;font-weight: 400;text-align: center;}
+  .hero-image-wrapper{top:40px;}
+  .blog_post main {margin-top: 60px;}
+  .blog_post main .container .col-md-10 .left_box p{font-size: 14px;}
+  .blog_post main .container .pt100 .col-md-10{border-radius: 0px;}
+  .blog_post main .container .pt100 .col-md-10 .text{width: 100%;}
+  .blog_post main .container .pt100 .col-md-10 h2{font-size:28px;}
+  .blog_post main .container .pt100 .col-md-10 p{font-size: 14px;}
+  .blog_post main .container .pt100 .col-md-10 p.bottons a{width: 160px;font-size: 14px;}
 
 
 }
