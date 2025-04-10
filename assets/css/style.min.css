@@ -983,6 +983,7 @@ nav.breadcrumb li.breadcrumb-item.active {
   content: var(--bs-breadcrumb-divider, "|");
 }
 
+
 #solutions_slider h1 {
   font-size: 49px;
   color: #000;
@@ -1673,15 +1674,245 @@ border-radius: 10px;
 
 
 
+#pricing_slider {
+  background: linear-gradient(180deg, #F9CCCC 0%, #FFFFFF 100%);min-height: 600px;
+
+}
+#pricing_slider .row {
+  padding-top: 60px;
+}
+
+#pricing_slider h1 {
+  font-size: 49px;
+  color: #000;
+  font-weight: 700;margin-left:100px;
+}
+
+#pricing_slider .col-md-6 {}
+
+#pricing_slider .col-md-6 .content {
+  padding: 30px;
+  padding-left: 0px;
+  padding-right: 40px;
+}
+
+#pricing_slider .col-md-6 .content p {
+  font-size: 20px;
+  color: #000;
+}
+
+#pricing_slider .col-md-6.rightbox .content {
+  border-top: 1px solid #5D0EF5;
+  border-bottom: 1px solid #5D0EF5;
+}
+
+#pricing_slider .col-md-6.rightbox {
+  margin-top: 30px;
+}
+
+#pricing_slider .col-md-6.rightbox h4 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+#pricing_slider .col-md-6.rightbox h4.blue {
+  color: #5D0EF5;
+}
+#pricing_tree_box {
+  padding: 30px 0;
+  margin-top: -255px;
+}
+
+#pricing_tree_box .col-md-6 {}
 
 
 
+#pricing_tree_box .col-md-4 .content { position: relative;
+  padding-top: 10px; }
+  #pricing_tree_box .one .content::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 12px;
+    width: 100%;
+    background: linear-gradient(270deg, #E8B6C8 0%, #9C5AE1 66.5%, #5D0EF5 100%);
+    border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  }
+
+  #pricing_tree_box .two .content::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 12px;
+    width: 100%;
+    background: #E8B6C8;
+    border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  }
+  
+  #pricing_tree_box .tree .content::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 12px;
+    width: 100%;
+    background: linear-gradient(270deg, #5D0EF5 0%, #A875D6 33.5%, #F7BBC6 100%);
+    border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  } 
+  #pricing_tree_box .col-md-4 .content {
+    border-radius: 10px;
+    padding: 20px;
+    min-height: 950px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;padding-top: 40px;
+  }
+
+#pricing_tree_box .col-md-4 .content .title{    min-height: 65px;}
+#pricing_tree_box .col-md-4 .content .title h2{color:#5D0EF5;font-size: 39px;}
+#pricing_tree_box .col-md-4.two .content .title h2{color:#fff;}
+
+#pricing_tree_box .col-md-4 .content .text{margin-bottom: 20px;min-height: 160px;}
+#pricing_tree_box .col-md-4 .content .text p{font-size: 20px;}
+#pricing_tree_box .col-md-4.two .content .text p{color:#fff;}
+
+#pricing_tree_box .col-md-4 .content .features{}
+#pricing_tree_box .col-md-4 .content .features h4{color: #5D0EF5;font-size: 25px;margin-bottom:15px}
+#pricing_tree_box .col-md-4.two .content .features h4{color: #fff;}
+#pricing_tree_box .col-md-4 .content .features ul{list-style:none;padding-left:0px;}
+#pricing_tree_box .col-md-4 .content .features ul li{margin-left:0px;margin-bottom: 10px;font-size: 17px;}
+#pricing_tree_box .col-md-4.two .content .features ul li{color: #fff;}
+#pricing_tree_box .col-md-4 .content .features ul li img{margin-right:15px;}
+
+#pricing_tree_box .col-md-4 .content .links {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+#pricing_tree_box .col-md-4 .content .links p a {
+  background-color: #5D0EF5;
+  color: #fff;
+  padding: 16px;
+  width: 254px;
+  display: block;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 18px;
+  text-decoration: none;
+  margin-top: 30px;
+}
+#pricing_tree_box .col-md-4.two .content .links p a { background-color: #fff;
+  color: #5D0EF5;}
+
+#pricing_tree_box .one .content,
+#pricing_tree_box .tree .content {
+  background-color: #F8F7FF;
+}
+
+#pricing_tree_box .two .content{
+  background-color: #5D0EF5;
+}
+
+#pricing_tree_box .col-md-6 .content .icon {
+  margin-bottom: 30px;
+  min-height: 86px;
+}
+
+#pricing_tree_box .col-md-6 .content .text {}
+
+#pricing_tree_box .col-md-6 .content .text h3 {
+  color: #fff;
+  font-size: 31px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+#pricing_tree_box .col-md-6 .content .text p {
+  color: #fff;
+  font-size: 20px;
+  font-family: "Plus Jakarta Sans";
+  line-height: 30px;
+  font-weight: 400;
+}
 
 
 
+.pricing_page nav.breadcrumb li.breadcrumb-item {
+  font-family: "Plus Jakarta Sans";
+  line-height: 30px;  text-decoration: none;
+  font-size: 20px!important;
+  font-weight: 700 !important;color: #000;
+}
+
+.pricing_page nav.breadcrumb li.breadcrumb-item a {
+  text-decoration: none;
+  font-size: 20px!important;
+  font-weight: 700 !important;
+}
+
+.pricing_page nav.breadcrumb li.breadcrumb-item.active {
+  color: #5D0EF5;
+  font-size: 20px;
+  font-weight: 400 !important;
+}
+
+.pricing_page .breadcrumb-item+.breadcrumb-item::before {
+  float: left;
+  padding-right: var(--bs-breadcrumb-item-padding-x);
+  color: var(--bs-breadcrumb-divider-color);
+  content: var(--bs-breadcrumb-divider, "|");
+}
 
 
+ 
+@media (min-width: 992px) {
+  .scroll-container {
+    overflow: visible;
+  }
 
+  .scroll-container .row {
+    flex-wrap: nowrap;
+  }
+}
+
+ 
+@media (max-width: 991px) {
+  .scroll-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    padding: 0 16px;
+  }
+
+  .scroll-container .row {
+    flex-wrap: nowrap;
+    display: flex;
+    gap: 16px;
+  }
+
+  .scroll-container .row > div {
+    min-width: 85%;
+    flex: 0 0 auto;
+    scroll-snap-align: center;
+    scroll-margin-inline: 16px;
+  }
+
+ 
+  .scroll-container .two {
+    scroll-margin-left: 20px;
+  }
+}
 
 
 
@@ -1970,6 +2201,9 @@ border-radius: 10px;
   #team_board .col-md-3 .text p{font-size: 12px;font-weight: 400;}
   #team_board .section-title h2{font-size: 22px;}
   #team_board .section-title {display: flex;align-items: stretch;gap: 16px;margin-bottom: 40px;flex-direction: column;flex-wrap: nowrap;}
+  #pricing_slider h1{margin-left:0px;text-align: center;}
+
+
 
 
 }
@@ -2249,6 +2483,7 @@ border-radius: 10px;
   #team_board .col-md-3 .text p{font-size: 12px;font-weight: 400;}
   #team_board .section-title h2{font-size: 22px;}
   #team_board .section-title {display: flex;align-items: stretch;gap: 16px;margin-bottom: 40px;flex-direction: column;flex-wrap: nowrap;}
+  #pricing_slider h1{margin-left:0px;text-align: center;}
 
 
 }

@@ -178,3 +178,16 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 });
+
+
+
+
+
+function scrollToMiddle() {
+  const scrollContainer = document.querySelector('.scroll-container');
+  const middleBox = document.querySelector('.scroll-container .two');
+  if (scrollContainer && middleBox) {
+    const offset = middleBox.offsetLeft - (scrollContainer.offsetWidth / 2) + (middleBox.offsetWidth / 2);
+    scrollContainer.scrollLeft = offset;
+  }
+}
