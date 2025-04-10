@@ -1,0 +1,36 @@
+---
+layout: blog-post
+title: "Managed Service Providers Continue to Step Up to Help Their Customers Stay Protected and Prosperous"
+date: 2022-09-05
+author: DefensX Team
+image: /assets/images/blog/DefensX-D-blog.jpg
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /blog/managed-service-providers-continue-to-step-up-to-help-their-customers-stay-protected-and-prosperous/
+description: Managed Service Providers Continue to Step Up to Help Their Customers Stay Protected and Prosperous
+---
+
+ 
+ 
+<p>Digitalization is permeating society with most business and personal communication taking place online via social media and other applications.</p>
+<p>Cryptocoins, branchless banking, online trading, remote health care, and other forms of virtual business have also begun to flourish.</p>
+<p>Along with the manifold opportunities of digitalization also comes an abundance of risks and possibilities of cybercrime and fraudulent behavior.</p>
+<p>Cybercrime, which includes everything from theft or embezzlement to&nbsp;<a target="_blank" href="https://www.embroker.com/blog/cyber-insurance-cost/">data hacking</a>&nbsp;and destruction, is up&nbsp;600%&nbsp;as a result of the COVID-19 pandemic. Cybercriminals have become more sophisticated, growing in volume and speed, using every form of cyberattack at their disposal.</p>
+<p>It is not only large enterprises who are being hacked. Small and medium businesses and organizations have become attractive targets given that they often do not have internal IT staff or a formal security posture, which is where the best Managed Service Providers step in to help ensure operations while protecting valuable assets – and the brands themselves.</p>
+<p>1,097 organizations were hit by&nbsp;<a target="_blank" href="https://www.cognyte.com/blog/ransomware_2021/">ransomware attacks</a>&nbsp;in the first half of 2021, as compared to 1,112 in all of 2020. Even right-to-left override attacks, a method that hasn’t been commonly used since the early 2000s, has seen a recent rise, with more than&nbsp;<a target="_blank" href="https://www.vadesecure.com/en/blog/how-hackers-are-using-a-20-year-old-text-trick-to-phish-microsoft-365-users">400 attacks</a>&nbsp;in the past few weeks employing the method.</p>
+<p>This week, our company re-emerged as DefensX, having successfully brought our original offering (browser threat isolation software) to MSPs and their customers over the last few years, and learning from interacting with our channels and their customers that the need for securing SMBs in a cloud-first and Everything-as-a-Service (XaaS) world has never been greater.</p>
+<p>We were inspired to do more and do more – we did! Our offering has expanded to include all the edge security solutions our MSP partners and their SMB customers need to continue to operate, to improve productivity, and to protect in ways that are very easy for end-users. To date these solutions were only available to large enterprises with super expensive offerings. Now available to anyone, democratizing the cybersecurity to the SMB’s of the world.</p>
+<p style="text-align: center;"><img style="width: 80%; background: #fff; padding: 20px;" src="{{ site.baseurl }}/assets/images/blog/blog-manage-image-v2.png" alt="Managed Service Providers Continue to Step Up to Help Their Customers Stay Protected and Prosperous "></p>
+<p>According to an extensive survey on SME’s, on the contrary of the common belief, more than 81% of the SME’s process high or medium critical business data. These SME’s are a part of larger supply chains. This is a real result of digitalization.</p>
+<p>To combat this new wave of cybercriminals, companies of all sizes have started to partner with managed service providers (MSPs) to bolster their cybersecurity defenses.</p>
+<p>MSPs are IT services companies that manage the IT infrastructure and IT processes and applications for clients. The infrastructure managed can range from user devices and computers, to firewalls, routers, switches, active directory, exchange servers, active directory servers, and data servers.&nbsp;</p>
+<p>Now, to keep up with customer expectations, MSPs must become IT experts, across all functional areas, including trials, beta tests, project management, installation, training, monitoring, maintenance, upgrades and especially customer support.</p>
+<p>MSPs have quickly become essential for businesses who need reliable cybersecurity solutions.&nbsp;<a target="_blank" href="https://app.luminpdf.com/viewer/620295b0025e060019a25b4f">81 percent</a>&nbsp;of organizations are already partnered with an MSP for cyber solutions, and nine out of ten companies would consider switching to a MSP if they offered a solution that met their needs.</p>
+<p>This is because MSPs can guide SMBs on the right path and help them stay protected from the increased incidents of cybercrime. They can educate clients about the need for a holistic security solution and</p>
+<p>the evolving cybercrime landscape, as well as provide businesses with a complete collection of security solutions so that they can stay protected and minimize risk.</p>
+<p>At DefensX, we understand that cybercrime is only going to get worse as the world becomes more digital, which makes MSPs critical for companies, especially small and medium businesses (SMBs), moving forward. With our Multi-Tenant Cloud, MSSPs can seamlessly own and manage the cybersecurity posture of their clients.</p>
+<p>DefensX offers MSPs zero-trust credential exposure &amp; social engineering attacks protection, MFA breach protection, zero-trust remote browser and file isolation, URL/URI protection, a technology replacing legacy DNS based protection. With this, MSSPs can bundle their own security services and boost revenue base, benefiting both themselves and their clients.&nbsp;</p>
+<p>By this, we mean MSPs can bundle their existing services with DefenseX’s eSWG (embedded secure web gateway), RBI, local-isolation, credential exposure protection and SaaS access protection features while offering their clients an additional line item.</p>
+<p>Our globally distributed cloud infrastructure enables MSSPs to serve their clients anywhere. Our offering also helps MSPs make more soft dollars by providing cybersecurity services bundled with DefensX offering, from their existing client base.</p>
+<p>We know that one of the biggest challenges Managed Services businesses face is delivering the right cybersecurity solutions to their customer base. The demand for cyber security will only continue to grow, and it is evident that everyone is at risk. A cyber-attack on a customer can be detrimental, so we’re here to make sure MSPs can offer cybersecurity solutions that allow their clients to rest easy, knowing their customers data and valuable assets – and brand - is safe and sound.</p>
+<p>Contact us to learn more – we have never been so driven to bring value and prosperity to our channels and their customers.</p>
+ 

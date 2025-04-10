@@ -29,7 +29,7 @@ permalink: /blog/
         <div class="row thumbnail">
             <div class="col-md-4 blog-post visible lozad">
                 <div class="image">
-                    <p><a href="{{ site.baseurl }}/blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/"><img src="{{ site.baseurl }}/assets/images/blog/DefensX_Adware_Blog_-thumbnain.jpg"></a></p>
+                    <p><a href="{{ site.baseurl }}/blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/"><img src="{{ site.baseurl }}/assets/images/blog/DefensX_Adware_Blog_.jpg"></a></p>
                 </div>
                 <div class="text">
                     <div class="subTitle">
@@ -44,22 +44,7 @@ permalink: /blog/
 
             <div class="col-md-4 blog-post visible lozad">
                 <div class="image">
-                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
-                </div>
-                <div class="text">
-                    <div class="subTitle">
-                        <p>Blog</p>
-                    </div>
-                    <div class="title">
-                        <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
-                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4 blog-post visible lozad">
-                <div class="image">
-                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
+                    <p><a href="{{ site.baseurl }}/blog/a-great-day-for-our-customers-channel-partners-and-company/"><img src="{{ site.baseurl }}/assets/images/blog/DEFENSX-Osmans-Blog-04-16-2023.jpg"></a></p>
                 </div>
                 <div class="text">
                     <div class="subTitle">
@@ -67,7 +52,22 @@ permalink: /blog/
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
-                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
+                        <p><a href="{{ site.baseurl }}/blog/a-great-day-for-our-customers-channel-partners-and-company/">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 blog-post visible lozad">
+                <div class="image">
+                    <p><a href="{{ site.baseurl }}/blog/another-great-day-along-the-way-we-are-proud-to-join-the-invest101-family/"><img src="{{ site.baseurl }}/assets/images/blog/DefensX-Blog-TDF-Social-Image-05-08-2023.jpg"></a></p>
+                </div>
+                <div class="text">
+                    <div class="subTitle">
+                        <p>Blog</p>
+                    </div>
+                    <div class="title">
+                        <h4>Stop Adware at The Gate Secure Browsing Prevents Attacks and Protects Productivity</h4>
+                        <p><a href="{{ site.baseurl }}/blog/another-great-day-along-the-way-we-are-proud-to-join-the-invest101-family/">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
                     </div>
                 </div>
             </div>  

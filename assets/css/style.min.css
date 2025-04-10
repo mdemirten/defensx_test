@@ -1431,7 +1431,7 @@ height: 371px;display: flex;
   z-index: -1;
 }
 .resources #blog-thumbnail .image p{margin-bottom:0px;}
-.resources #blog-thumbnail .image p img{width: 100%;}
+.resources #blog-thumbnail .image p img{width: 100%;border-radius:10px;height: 215px;}
 
 .resources #blog-thumbnail .text{}
 .resources #blog-thumbnail .text .subTitle{}
@@ -1527,6 +1527,11 @@ border-radius: 10px;
     .blog_post main .container .col-md-10 .left_box p{font-size: 20px;font-weight: 400;}
     .blog_post main .container .col-md-10 .left_box{width:65%;}
     .blog_post main .container .col-md-10 .left_box p a{color: #5D0EF5;text-decoration: none;}
+    .blog_post main .container .col-md-10 .left_box h1{font-size:39px;}
+    .blog_post main .container .col-md-10 .left_box h2{font-size:34px;}
+    .blog_post main .container .col-md-10 .left_box h3{font-size:20px;}
+    .blog_post main .container .col-md-10 .left_box h4{font-size:25px;}
+    .blog_post main .container .col-md-10 .left_box h5{font-size:18px;}
     .blog_post main .container .col-md-10 .right_box{  width:30%;  border-radius: 10px;padding: 20px;}
     .blog_post main .container .col-md-10 .right_box .blog-other-links{    background: #EBE9F8;padding: 30px;border-radius: 10px;}
     .blog_post main .container .col-md-10 .right_box ul{list-style:none;margin:0;padding: 0;}
@@ -2275,9 +2280,11 @@ border-radius: 10px;
   .blog_post main .container .col-md-10 .left_box p{font-size: 14px;}
   .blog_post main .container .pt100 .col-md-10{border-radius: 0px;}
   .blog_post main .container .pt100 .col-md-10 .text{width: 100%;}
-  .blog_post main .container .pt100 .col-md-10 h2{font-size:28px;}
+  .blog_post main .container .pt100 .col-md-10 h2,
+  .blog_post main .container .col-md-10 .left_box h1{font-size:28px;}
   .blog_post main .container .pt100 .col-md-10 p{font-size: 14px;}
   .blog_post main .container .pt100 .col-md-10 p.bottons a{width: 160px;font-size: 14px;}
+
   #team_board .row.board-members .col-md-3,
   #team_board .row.executive-team .col-md-3{width: 50%;}
   #team_board .col-md-3 .text p{font-size: 12px;font-weight: 400;}
@@ -2305,7 +2312,7 @@ border-radius: 10px;
 
 
 
-  
+
 }
 
 
