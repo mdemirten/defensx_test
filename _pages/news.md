@@ -4,16 +4,6 @@ title: "News"
 permalink: /news/
 ---
 
-<div id="slider">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h1>Resources</h1>
-                <p>From Your Leaders in the Secure Digital Workspace</p>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div id="blog-thumbnail">
     <div class="container">
@@ -26,12 +16,12 @@ permalink: /news/
         <div class="row blog-categories-link">
             <div class="col-md-12">
                 <ul>
-                    <li class="blog-active"><a href="{{ site.baseurl }}/resources/">Blogs</a></li>
+                    <li class="blog-active"><a href="{{ site.baseurl }}/blog/">Blogs</a></li>
                     <li class="news-active"><a href="{{ site.baseurl }}/news/">News</a></li>
                     <li class="whitepapers-active"><a href="{{ site.baseurl }}/whitepapers/">Whitepapers</a></li>
                     <li class="datasheets-active"><a href="{{ site.baseurl }}/datasheets/">Datasheets</a></li>
-                    <li class="buyers-active"><a href="{{ site.baseurl }}/buyers-guide/">Buyer’s Guide</a></li>
-                    <li class="events-active"><a href="{{ site.baseurl }}/events/">Events</a></li>
+                    <!--<li class="buyers-active"><a href="{{ site.baseurl }}/buyers-guide/">Buyer’s Guide</a></li>-->
+                    <!--<li class="events-active"><a href="{{ site.baseurl }}/events/">Events</a></li>-->
                 </ul>
             </div>
         </div>

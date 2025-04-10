@@ -1,19 +1,9 @@
 ---
-layout: resources
-title: "Resources"
-permalink: /resources/
+layout: blog
+title: "Blog"
+permalink: /blog/
 ---
 
-<div id="slider">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h1>Resources</h1>
-                <p>From Your Leaders in the Secure Digital Workspace</p>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div id="blog-thumbnail">
     <div class="container">
@@ -73,7 +63,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>News</p>
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -87,7 +77,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>News</p>
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -102,7 +92,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Whitepapers</p>
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -117,7 +107,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Datasheets</p>
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -150,7 +140,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Datasheets</p>
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
@@ -165,7 +155,7 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Whitepapers</p>
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
@@ -180,50 +170,6 @@ permalink: /resources/
                 <div class="text">
                     <div class="subTitle">
                         <p>Blog</p>
-                    </div>
-                    <div class="title">
-                        <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
-                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4 blog-post lozad">
-                <div class="image">
-                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
-                </div>
-                <div class="text">
-                    <div class="subTitle">
-                        <p>Datasheets</p>
-                    </div>
-                    <div class="title">
-                        <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
-                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4 blog-post lozad">
-                <div class="image">
-                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
-                </div>
-                <div class="text">
-                    <div class="subTitle">
-                        <p>News</p>
-                    </div>
-                    <div class="title">
-                        <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
-                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
-                    </div>
-                </div>
-            </div> 
-               <div class="col-md-4 blog-post lozad">
-                <div class="image">
-                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
-                </div>
-                <div class="text">
-                    <div class="subTitle">
-                        <p>News</p>
                     </div>
                     <div class="title">
                         <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
@@ -253,7 +199,51 @@ permalink: /resources/
                 </div>
                 <div class="text">
                     <div class="subTitle">
-                        <p>Datasheets</p>
+                        <p>Blog</p>
+                    </div>
+                    <div class="title">
+                        <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>
+                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
+                    </div>
+                </div>
+            </div> 
+               <div class="col-md-4 blog-post lozad">
+                <div class="image">
+                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
+                </div>
+                <div class="text">
+                    <div class="subTitle">
+                        <p>Blog</p>
+                    </div>
+                    <div class="title">
+                        <h4>Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity</h4>
+                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 blog-post lozad">
+                <div class="image">
+                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
+                </div>
+                <div class="text">
+                    <div class="subTitle">
+                        <p>Blog</p>
+                    </div>
+                    <div class="title">
+                        <h4>Another Great Day Along The Way: We Are Proud To Join the Invest101 Family</h4>
+                        <p><a href="#">Read more <img src="{{ site.baseurl }}/assets/images/homepage/Vector-read-more.png"></a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 blog-post lozad">
+                <div class="image">
+                    <p><a href="#"><img src="{{ site.baseurl }}/assets/images/resources/resources-blog-thumbnail-bg.png"></a></p>
+                </div>
+                <div class="text">
+                    <div class="subTitle">
+                        <p>Blog</p>
                     </div>
                     <div class="title">
                         <h4>A Great Day for Our Customers, Channel Partners, and Company</h4>

@@ -4,7 +4,6 @@ title: "Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects P
 date: 2023-06-27
 author: DefensX Team
 image: /assets/images/blog/DefensX_Adware_Blog_.jpg
-categories: [blog]
 tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
 permalink: /blog/stop-adware-at-the-gate-secure-browsing-prevents-attacks-and-protects-productivity/
 description: DefensX protects users from sophisticated cybersecurity attacks by isolating threats from reaching end-point devices, such as desktops, laptops, smart phones and tablets.

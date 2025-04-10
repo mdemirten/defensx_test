@@ -1398,12 +1398,13 @@ height: 371px;display: flex;
   text-decoration: none;font-size:20px;font-weight: 700;border:1px solid #5D0EF5;}
 
 
-.resources_page #blog-thumbnail .row.blog-categories-link ul li.blog-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.blog_page #blog-thumbnail .row.blog-categories-link ul li.blog-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .news_page #blog-thumbnail .row.blog-categories-link ul li.news-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .whitepapers_page #blog-thumbnail .row.blog-categories-link ul li.whitepapers-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .datasheets_page #blog-thumbnail .row.blog-categories-link ul li.datasheets-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .buyers-guide_page #blog-thumbnail .row.blog-categories-link ul li.buyers-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .events_page #blog-thumbnail .row.blog-categories-link ul li.events-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+
 
 .resources #blog-thumbnail .row.blog-categories-link ul li a:hover{background: #EBE9F8;}
 
