@@ -106,6 +106,33 @@ permalink: /pricing/
 
 
 
-{% include lets-chat.html %}
+<div id="download_guide">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="text">
+                    <h2>Download Our Full Feature Guide</h2>
+                    <p>Interested in seeing all features and capabilities? Download the full feature guide to compare and contrast package options.</p>
+                    <p><a href="#">Learn More</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-{% include solutions-blog-content.html %}
+
+<div id="accordion-pages">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                 <h2>Frequently Asked Questions</h2>
+                <p>Have other questions? The DefensX team is here to help! Drop us a line via the contact us page and we will get back to you as soon as possible.</p>
+            </div>
+            
+            <div class="col-md-8">
+                {% include accordion.html %}
+            </div>
+        </div>
+    </div>
+</div>
+

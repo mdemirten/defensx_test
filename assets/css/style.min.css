@@ -1915,6 +1915,88 @@ border-radius: 10px;
 }
 
 
+#download_guide {
+  padding: 30px 0;
+}
+#download_guide .container {
+  background: var(--Color-Secondary-Purple-300, #EBE9F8);
+  min-height: 290px;border-radius: 10px;
+
+}
+#download_guide .row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;min-height: 325px;
+}
+#download_guide .col-md-8 {
+  text-align: left;
+  padding-left: 95px;
+}
+#download_guide p {
+  color: #000;font-size: 20px;
+}
+#download_guide h2 {
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  font-size: 39px;margin-bottom:20px;
+  color: #000;
+}
+#download_guide p a {
+  background-color: #5D0EF5;
+  color: #fff;
+  padding: 16px;
+  width: 254px;
+  display: block;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 18px;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #000;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.accordion-item {
+  border-color: #7d3cff; /* örnek mor ton */
+}
+
+.border-bottom {
+  border-bottom: var(--bs-border-width) var(--bs-border-style) #4919BA !important;
+}
+#accordion-pages .col-md-4{    padding: 90px;padding-left: 0px;}
+#accordion-pages .col-md-4 h2{font-size:39px;}
+#accordion-pages .col-md-4 p{font-size:20px;}
+#accordion-pages .col-md-8{padding: 90px;padding-right: 0px;}
+
+#accordion-pages .col-md-8 .accordion-header{background: #fff;}
+#accordion-pages .col-md-8 .accordion-header button{font-size: 20px;font-weight: 700;}
+#accordion-pages .col-md-8 .accordion-body{font-size: 20px;font-weight: 400;}
+
+#accordion-pages .col-md-8 .accordion-body{background:#fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2202,10 +2284,28 @@ border-radius: 10px;
   #team_board .section-title h2{font-size: 22px;}
   #team_board .section-title {display: flex;align-items: stretch;gap: 16px;margin-bottom: 40px;flex-direction: column;flex-wrap: nowrap;}
   #pricing_slider h1{margin-left:0px;text-align: center;}
+  #download_guide .container{border-radius: 0px;}
+  #download_guide .col-md-8 {text-align: center;padding: 20px;}
+  #download_guide h2{font-size: 28px;}
+  #download_guide p{font-size: 14px;}
+  #download_guide p a {background-color: #5D0EF5;color: #fff;padding: 16px;width: 160px;display: block;text-align: center;border-radius: 10px;font-size: 14px;text-decoration: none;margin-top: 30px;margin: 0 auto;}
+  #accordion-pages .container{padding:20px;}
+  #accordion-pages .col-md-4{padding: 20px;text-align: center;}
+  #accordion-pages .col-md-4 h2{font-size: 22px;}
+  #accordion-pages .col-md-4 p{font-size: 14px;}
+  #accordion-pages .col-md-8{padding: 8px;}
+  #accordion-pages .col-md-8 .accordion-header button {font-size: 16px;}
+  #accordion-pages .col-md-8 .border-bottom{margin-bottom: 20px;}
+  #accordion-pages .col-md-8 .accordion-body{font-size: 14px;}
+  footer {background-repeat: no-repeat;padding: 23px;padding-top: 17px;padding-bottom: 0px;background-size: cover;}
 
 
 
 
+
+
+
+  
 }
 
 
@@ -2484,7 +2584,20 @@ border-radius: 10px;
   #team_board .section-title h2{font-size: 22px;}
   #team_board .section-title {display: flex;align-items: stretch;gap: 16px;margin-bottom: 40px;flex-direction: column;flex-wrap: nowrap;}
   #pricing_slider h1{margin-left:0px;text-align: center;}
-
+  #download_guide .container{border-radius: 0px;}
+  #download_guide .col-md-8 {text-align: center;padding: 20px;}
+  #download_guide h2{font-size: 28px;}
+  #download_guide p{font-size: 14px;}
+  #download_guide p a {background-color: #5D0EF5;color: #fff;padding: 16px;width: 160px;display: block;text-align: center;border-radius: 10px;font-size: 14px;text-decoration: none;margin-top: 30px;margin: 0 auto;}
+  #accordion-pages .container{padding:20px;}
+  #accordion-pages .col-md-4{padding: 20px;text-align: center;}
+  #accordion-pages .col-md-4 h2{font-size: 22px;}
+  #accordion-pages .col-md-4 p{font-size: 14px;}
+  #accordion-pages .col-md-8{padding: 8px;}
+  #accordion-pages .col-md-8 .accordion-header button {font-size: 16px;}
+  #accordion-pages .col-md-8 .border-bottom{margin-bottom: 20px;}
+  #accordion-pages .col-md-8 .accordion-body{font-size: 14px;}
+  footer {background-repeat: no-repeat;padding: 23px;padding-top: 17px;padding-bottom: 0px;background-size: cover;}
 
 }
 
