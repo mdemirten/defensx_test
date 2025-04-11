@@ -1,0 +1,33 @@
+---
+layout: news-post
+title: "Massive Increase in Cyber Crime Sends Businesses Racing to Protect Assets"
+date: 2021-5-18
+author: Erik Linask
+image: /assets/images/news/8864368912-AdobeStock_243099012_AI_security_SUPERSIZE.webp
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /news/massive-increase-in-cyber-crime-sends-businesses-racing-to-protect-assets/
+description: Massive Increase in Cyber Crime Sends Businesses Racing to Protect Assets
+---
+
+
+ 
+ 
+ 
+ 
+<p>Cyber crime is a significant threat to businesses, regardless of size or industry. It can lead to disruption of operations, breach of business and customer data, unauthorized access to networks, and more. Every day, there are new headlines about data breaches, hackings, cyberattacks, and various forms of crimes against businesses, as cyber crime grows in speed, volume, and most frighteningly, sophistication.</p>
+<p>There has been a 600% increase in cybercrime due to the pandemic, according to a report done by&nbsp;<a target="_blank" href="https://app.luminpdf.com/viewer/620295b0025e060019a25b4f">The Tech Tribe</a>, and the growth persists even as we venture away from the pandemic. According to the report, more than two-thirds of businesses have suffered at least one cyber attack, and a third have experienced one in the past 12 months.</p>
+<p>Unfortunately for businesses, it’s not simply one form of cybercrime that is growing, but multiple types of cyberattacks. Between January 2020 and March 2021, distributed denial of service (DDOS) attacks increased by 55 percent, and phishing incidents grew as well, remaining the most common form of cyberattack. In 2020, phishing was responsible for more than 80 percent of reported security incidents.</p>
+<p>What has made this cybercrime surge truly hurtful for businesses is how rapidly it happened, which didn’t allow organizations to prepare their defenses. SMBs, in particular, have struggled to keep up, since most don’t have a dedicated cyber security expert or the budget to adequately address security needs and protect their assets and resources.</p>
+<p>“The average cost of a data breach for an SMB is a staggering $149,000. This makes it essential that SMBs are assessing their potential exposure to cyber crime and take actions to prevent and minimize attacks,” said Halis Osman Erkan, founder and CEO of DefensX, an advanced zero-trust endpoint web threat protection company. “Attackers are getting smarter, attacks are occurring faster, and incidents are becoming more complex. SMBs must be diligent to protect against electronic theft.”</p>
+<p>SMBs’ cyber security problems can be solved with help from a managed service provider (MSP) or Managed Security Service Provider (MSSP). MSPs/MSSPs can be the ideal partner, as 62 percent of SMEs don't have the required in-house skills. Managed IT teams can develop and implement security measures and even lay out a recovery plan for probable attacks.</p>
+<p>“MSPs can help bridge the gap between the current level of protection and the optimal level desired by businesses,” Erkan explained. “MSPs can educate clients about the need for a holistic security solution and the evolving cybercrime landscape.</p>
+<p>MSPs can offer SMBs a wide variety of cybersecurity solutions, so those businesses can find the solutions that fit their needs. These solutions cover a vast amount of what is considered industry standard practices for many businesses when it comes to cybersecurity.</p>
+<p>MSPs can offer cyber security solutions that emphasize data recovery SMBs need many types of data to make business decisions, and when that data is not available or is untrusted, it could impact the organization. When attackers compromise assets, they make changes to configurations, add accounts, and often add software or scripts, which are hard to identify. Therefore, it is important to have the ability to have recent backups or mirrors to recover enterprise assets and data back to a known trusted state.</p>
+<p>Another common cyber security practice MSPs can offer is malware defense. Malicious software is an integral and dangerous aspect of internet threats, often entering a company’s network through end-user devices, email attachments, webpages, cloud services, mobile devices, and removable media. They can have many purposes, from capturing credentials, stealing data, identifying other targets within the network, and encrypting or destroying data.</p>
+<p>MSPs can also offer robust account management. There are many ways to covertly obtain access to user accounts, including weak passwords, accounts still valid after a user leaves the enterprise, dormant or lingering test accounts, and shared accounts that have not been changed in months or years. With the help of MSPs, SMBs can use processes and tools to assign and manage authorization to credentials for user accounts, including administrator accounts, as well as service accounts, to enterprise assets and software.</p>
+<p>“The importance of cyber security will continue to grow, along with SMBs' awareness of the need, making it a crucial time for MSPs,” said Erkan. “MSPs that are security-focused to properly serve their clients will not only benefit their clients who need cybersecurity but also benefit themselves, allowing themselves to flourish in this new cyber niche.”</p>
+<p><em>For the latest information about the cyber landscape, join MSP Expo 2022, delivering four days of education and networking specifically focused on the MSP community, including one full track dedicated to security.&nbsp; </em><a target="_blank" href="http://www.mspexpo.com/"><em>MSP Expo 2022</em></a><em> takes place June 21-24, 2022 in Ft. Lauderdale, Florida and is collocated alongside the other #</em><a target="_blank" href="http://www.techsupershow.com/"><em>TECHSUPERSHOW</em></a>&nbsp;<em>events, including ITEXPO, Future of Work Expo, IoT Evolution Expo, The Blockchain Event, and more. DefensX will be exhibiting in&nbsp;<a target="_blank" href="https://www.itexpo.com/east/exhibitor-list.aspx">Booth #864</a>.</em></p>
+<p><br>Edited by</p>
+<a target="_blank" href="https://www.msptoday.com/columnist.aspx?id=100047&amp;nm=Erik%20Linask">Erik Linask</a>
+<p><a target="_blank" href="https://www.msptoday.com/topics/msp-today/articles/452371-massive-increase-cyber-crime-sends-businesses-racing-protect.htm">Source</a></p>
+ 

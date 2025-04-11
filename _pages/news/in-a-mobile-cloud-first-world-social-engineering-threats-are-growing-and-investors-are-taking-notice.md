@@ -1,0 +1,30 @@
+---
+layout: news-post
+title: "In A Mobile, Cloud-First World, Social Engineering Threats Are Growing and Investors Are Taking Notice"
+date: 2023-05-10
+author: Erik Linask
+image: /assets/images/news/7433381688-AdobeStock_555638781-cyber-security-attack-threat-malware-supersize-1200x630.jpeg
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /news/in-a-mobile-cloud-first-world-social-engineering-threats-are-growing-and-investors-are-taking-notice/
+description: In A Mobile, Cloud-First World, Social Engineering Threats Are Growing and Investors Are Taking Notice
+---
+
+ 
+ 
+ 
+<p>Cyber security is a high priority item for businesses of all sizes, across all industries, as a variety of new attack methods constantly bombard organizations’ digital defenses. Among all the techniques cyber criminals are leveraging to hack a company's servers, social engineering attacks, like phishing, are certainly among the most common attacks organizations must be wary of.</p>
+<p>Social engineering attacks exploit an organization's last, and usually weakest line of defense – employees. Cyber criminals start with a fraudulent email or other communication designed to lure a victim into providing confidential information, or accidently download malware onto their devices. Unfortunately, these attacks are becoming increasingly difficult to defend against, as cyber attackers have begin sending scam links not only to a target’s email, but through other modern channels as well, such as SMS, iMessage, Whatsapp, Slack, LinkedIn&nbsp;(<a href="http://www.tmcnet.com/snapshots/snapshots.aspx?Company=LinkedIn" target="_blank">News</a>-<a href="http://www.tmcnet.com/enews/subs.aspx?k1=%22LinkedIn%22" target="_blank">Alert</a>) message, AD links, and similar mediums.</p>
+<p>It’s a problem&nbsp;<a href="https://www.defensx.com/" target="_self">DefensX</a>&nbsp;seeks to address and, this week, the developer of a Zero Trust Secure Web Browser extension and solutions announced investment from the Development METU Technopark Venture Capital Investment Fund (Invest101), established in cooperation with the Türkiye Development Fund (TDF&nbsp;(<a href="http://www.tmcnet.com/snapshots/snapshots.aspx?Company=TDF" target="_blank">News</a>-<a href="http://www.tmcnet.com/enews/subs.aspx?k1=%22TDF%22" target="_blank">Alert</a>)) and METU Technopark.</p>
+<p>Invest101 supports new generation, early-stage technology startups, to scale up innovative solutions across artificial intelligence (AI), machine learning (ML), big data, cyber security, fintech, gaming technologies, software development technologies, internet of things (IoT), augmented reality (AR), virtual reality (VR), cloud technologies, advanced material, robotics, nanotechnology, biotechnology, renewable energy, and mobility.</p>
+<p>“We are pleased to welcome Osman and the DefensX team to our Invest101 family,” said Elif Altug, Ph.D, CFA, CEO and Board Member of Türkiye Development Fund. “The company has already proven the enormous value of technology in our country, our region, and globally, and we look forward to their expansion in such a mission critical area. Without the ability to defend against growing threats, digital and structural transformation is limited. DefensX addresses risks in a modern way which is accessible, affordable, and sustainable.”</p>
+<p>DefensX’s Zero Trust Secure Web Browser – with capabilities including Zero Trust Web Protection, Zero Trust Credentials, Zero Trust File Protection, Remote Browser Isolation, and DNS++ – leverages a cloud-first architecture that has been adopted by major distribution channels around the world. With it, DefensX is now poised to scale as the challenges they have been solving for continue to mount.</p>
+<p>“We are deeply honored to have been chosen by the Invest101 team, given their shared focus on creating strong regional and global companies engaged in strategic industries,” said Osman Erkan, Co-Founder and CEO of DefensX. “We look forward to becoming a strong contributor to their network of investors and entrepreneurs who are committed, as we are, to developing and expanding meaningful and sustainable solutions, especially in the cyber security arena as threats continue to accelerate.”</p>
+<p>The sheer volume of social engineering attacks being deployed nowadays is staggering, with 57 percent of all cyber attacks being some form of social engineering or phishing. Even worse, these attacks are extremely detrimental to a company, with the average indirect cost of lost productivity due to a<u> social engineering </u>ballooning from an average of $3.2 million in 2021, to an average of $4.91 million per breach today. Luckily, the plethora of advanced cyber security solutions available give enterprises the tools and a way to bolster their technological shields to the levels necessary to thwart would-be attackers.</p>
+<p>Last month, DefensX announced it had closed a financing round by&nbsp;<a href="https://revo.vc/" target="_blank">Revo</a><u> Capital</u>, a venture capital fund investing in truly innovative, seed and early-stage B2B or B2C technology&nbsp;ventures. The investment of Invest 101 was realized as an extension of the above-mentioned round.</p>
+<p>As demand for DefensX cybersecurity solutions continues to grow in North America, Western and Eastern Europe, Asia Pacific and Europe Middle East and Africa, Invest 101 and Revo’s investments will accelerate further expansion and software-as-a-service development.</p>
+<p><br><em>Juhi Fadia is an engineer, analyst, researcher and writer covering advanced and emerging technologies.</em><br>Edited by</p>
+<a href="http://www.tmcnet.com/tmcnet/columnists/columnist.aspx?id=100047&amp;nm=Erik%20Linask">Erik Linask</a>
+<p></p>
+<p></p>
+<p><em>This article was originally published on&nbsp;<a href="https://cloud-computing.tmcnet.com/breaking-news/articles/455818-a-mobile-cloud-first-world-social-engineering-threats.htm" target="_blank">Cloud Computing Magazine</a></em></p>
+ 

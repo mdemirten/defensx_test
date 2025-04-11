@@ -1,12 +1,12 @@
 ---
 layout: blog-post
-title: "Stop Adware at The Gate: Secure Browsing Prevents Attacks and Protects Productivity"
+title: "Another Great Day Along The Way: We Are Proud To Join the Invest101 Family"
 date: 2023-06-27
 author: H. Osman Erkan
 image: /assets/images/blog/DefensX-Blog-TDF-Social-Image-05-08-2023.jpg
 tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
 permalink: /blog/another-great-day-along-the-way-we-are-proud-to-join-the-invest101-family/
-description: Stop Adware at The Gate Secure Browsing Prevents Attacks and Protects Productivity
+description: Another Great Day Along The Way We Are Proud To Join the Invest101 Family
 ---
 
  

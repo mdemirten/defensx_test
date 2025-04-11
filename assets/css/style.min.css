@@ -1376,7 +1376,8 @@ ul.navbar-nav li a {
 
 .resources #slider,
 .team #slider,
-.terms-conditions #slider  {
+.terms-conditions #slider,
+.distributors #slider  {
   background-image: url(/defensx_test/assets/images/resources/resources-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1384,10 +1385,15 @@ height: 371px;display: flex;
   justify-content: center;   
   align-items: center;  text-align: center;      
 }
+
+.distributors #slider .col-md-10{margin: 0 auto;}
 .resources #slider h1,
 .team #slider h1,
-.terms-conditions #slider h1{font-size: 49px;font-weight: 700;}
-.resources #slider p{font-size: 20px;font-weight: 400;}
+.terms-conditions #slider h1,
+.distributors #slider h1{font-size: 49px;font-weight: 700;}
+
+.resources #slider p,
+.distributors #slider p{font-size: 20px;font-weight: 400;}
 
 .resources #blog-thumbnail .row.blog-categories-link{}
 .resources #blog-thumbnail .row.blog-categories-link ul{    list-style: none;margin: 0px;padding: 0px;}
@@ -1405,6 +1411,7 @@ height: 371px;display: flex;
 .datasheets_page #blog-thumbnail .row.blog-categories-link ul li.datasheets-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .buyers-guide_page #blog-thumbnail .row.blog-categories-link ul li.buyers-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 .events_page #blog-thumbnail .row.blog-categories-link ul li.events-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
+.press_page #blog-thumbnail .row.blog-categories-link ul li.press-active a{background: #EBE9F8;border: 1px solid #EBE9F8;}
 
 
 .resources #blog-thumbnail .row.blog-categories-link ul li a:hover{background: #EBE9F8;}
@@ -1412,14 +1419,16 @@ height: 371px;display: flex;
 
 .resources #blog-thumbnail .row.thumbnail{margin-top:50px;}
 .resources #blog-thumbnail{padding: 50px 0;}
-.resources #blog-thumbnail .image {
+.resources #blog-thumbnail .image,
+#resourcesBox .image {
   position: relative;
   border-radius: 10px;
   padding: 0px;
   z-index: 1;margin-bottom:20px;
 }
  
-.resources #blog-thumbnail .image::after {
+.resources #blog-thumbnail .image::after,
+#resourcesBox .image::after {
   content: '';
   position: absolute;
   top: 8px;
@@ -1430,8 +1439,11 @@ height: 371px;display: flex;
   border-radius: 10px;
   z-index: -1;
 }
-.resources #blog-thumbnail .image p{margin-bottom:0px;}
-.resources #blog-thumbnail .image p img{width: 100%;border-radius:10px;height: 215px;}
+
+.resources #blog-thumbnail .image p,
+#resourcesBox .image p{margin-bottom:0px;}
+.resources #blog-thumbnail .image p img,
+#resourcesBox .image p img{width: 100%;border-radius:10px;height: 255px;}
 
 .resources #blog-thumbnail .text{}
 .resources #blog-thumbnail .text .subTitle{}
@@ -1479,7 +1491,8 @@ height: 371px;display: flex;
 
 
 
-
+  .blog_post main .container .col-md-10 .left_box ul li{font-size: 20px;
+    font-weight: 400;}
 
 
   .blog_post #slider{
@@ -1498,7 +1511,8 @@ height: 371px;display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;}
-
+    .blog_post #slider.no-image .blog-hero{padding-bottom: 50px;padding-top: 50px;}
+    .blog_post.no_images main{margin: 80px 0;} 
     .hero-image-wrapper {
       position: relative;
     z-index: 2;
@@ -1992,20 +2006,34 @@ border-radius: 10px;
 
 
 
+#our-distributors{padding: 80px 0px;}
+#our-distributors .col-md-12 h2{color: #5D0EF5;font-size:65px;font-weight: 700;}
+#our-distributors .row.boxs{display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: center;align-items: flex-start;}
+#our-distributors .row.boxs .col-md-4{    text-align: center;display: flex;justify-content: center;flex-direction: column;flex-wrap: wrap;align-content: space-around;}
+#our-distributors .row.boxs .image{       width: 300px;height: 146px;display: flex;align-items: center;flex-wrap: wrap;justify-content: space-evenly;flex-direction: row;}
+#our-distributors .row.boxs .image img{width: 65%;}
+#our-distributors .row.boxs .text{}
+#our-distributors .row.boxs .text p{    width: 200px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background: #5D0EF5;
+  border: 1px solid #5D0EF5;
+  padding: 14px;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 20px;}
+  #our-distributors .row.boxs .text p a{color: #fff;text-decoration: none;}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+.request-demo{padding: 80px 0px;}
+.request-demo .container{}
+.request-demo .col-md-10{margin: 0 auto;background-color: #EBE9F8;
+  border-radius: 10px;
+  padding: 40px;}
+.request-demo .col-md-10 .text{}
+.request-demo .col-md-10 .text h2{}
+.request-demo .col-md-10 .form{}
 
 
 
@@ -2305,6 +2333,13 @@ border-radius: 10px;
   #accordion-pages .col-md-8 .border-bottom{margin-bottom: 20px;}
   #accordion-pages .col-md-8 .accordion-body{font-size: 14px;}
   footer {background-repeat: no-repeat;padding: 23px;padding-top: 17px;padding-bottom: 0px;background-size: cover;}
+  #our-distributors .row.boxs {display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: center;align-items: flex-start;}
+  .distributors #slider h1 {font-size: 22px;font-weight: 700;}
+  .distributors #slider p{font-size: 20px;}
+  #our-distributors .col-md-12 h2{font-size:28px;}
+.distributors .moderm_box h2{font-size: 32px!important;}
+  .request-demo .col-md-10 .text h2{font-size: 22px;}
+  #why-are-msp-choosing .testimonial-box{margin-bottom:50px;}
 
 
 
@@ -2605,6 +2640,19 @@ border-radius: 10px;
   #accordion-pages .col-md-8 .border-bottom{margin-bottom: 20px;}
   #accordion-pages .col-md-8 .accordion-body{font-size: 14px;}
   footer {background-repeat: no-repeat;padding: 23px;padding-top: 17px;padding-bottom: 0px;background-size: cover;}
+  #our-distributors .row.boxs {display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: center;align-items: flex-start;}
+  .distributors #slider h1 {font-size: 22px;font-weight: 700;}
+  .distributors #slider p{font-size: 20px;}
+  #our-distributors .col-md-12 h2{font-size:28px;}
+ .distributors .moderm_box h2{font-size: 32px!important;}
+  .request-demo .col-md-10 .text h2{font-size: 22px;}
+  #why-are-msp-choosing .testimonial-box{margin-bottom:50px;}
+
+
+
+
+
+
 
 }
 

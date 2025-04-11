@@ -1,0 +1,31 @@
+---
+layout: blog-post
+title: "DefensX is Honored to Bring Cybersecurity Solutions to Market with ConnX"
+date: 2022-04-26
+author: DefensX Team
+image: /assets/images/blog/connx-blog-img-bg.jpg
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /blog/defensx-is-honored-to-bring-cybersecurity-solutions-to-market-with-connx/
+description: DefensX is Honored to Bring Cybersecurity Solutions to Market with ConnX
+---
+
+ 
+ 
+
+ 
+<p><strong>As Enterprise Teams Continue to Work Remotely, DefensX is Honored to Bring Intelligent End-Point Browser and Web Isolation Solutions to Market with ConnX</strong></p>
+<p>Today we announced an exciting new partnership with ConnX, an AI driven Communications Transformation as a Service platform provider serving enterprises. The world-class team at ConnX is bringing ConnX Maestro AI , the industry’s first, AI powered, multi-service integrated communications platform to large global enterprises who, like all organizations have been grappling with new threats associated with the dramatic rise of the remote workforce given the mandates driven by the global health crisis that largely defined 2020.</p>
+<p>The ConnX team brings tremendous experience, success and insights in real time cloud-based UC collaboration, mobility, and security services tearing down legacy silos, reducing risks and costs associated with fragmented systems, and managing networks, devices, applications, and cyber protection at the edge, on every endpoint, and within the computing and communications infrastructure.</p>
+<p>Sometimes establishing go-to-market solutions and programs can be complex and time-consuming, but in this case ConnX and DefensX are a “perfect match” given how easy and straightforward it is to provision, manage and secure any device – fixed or mobile – on any network – by simply downloading DefensX’s software on each device, which then is connected to ConnX Maestro AI Orchestrator Portal.</p>
+<p>Rather than rolling out an expensive and complicated equipment-based solution, this new browser and web isolation service (powered by ConnX) runs 100% on a secure cloud-based infrastructure, leveraging the scale and stability of virtual machines.</p>
+<p>ConnX can secure tens of thousands of end-points within a few days, or less, when coordinating the implementation using existing IT tools, including email and other collaboration platforms, simply by providing instructions to end-users on how to download the code, and instantly initiate the service.</p>
+<p>According to Gartner, 98 percent of external attacks over the last few years were carried out over the public Internet and, of those attacks, 80 percent were targeted directly at end users through their browsers.</p>
+<p>Our cloud-native remote browser isolation eliminates risk as users see a rendering of a web page, but not the page itself, protecting against invisible downloading of malware/ransomware and viruses onto their device, and into enterprise networks.</p>
+<p>Working with ConnX, as part of their broad IT communications and security offering, our collective solution protects against zero-day threats and enhances an overall cybersecurity posture.</p>
+<p>Most malware/ransomware and ransomware attacks start with the web browser and directly target Internet users when they are searching and interacting online. With increasingly sophisticated attacks, which ramped up dramatically in 2020 as millions of employees, contractors and partners were forced to work from home, attackers are easily bypassing preventative controls including signature-based malware/ransomware scanning, firewalls and secure web gateways (SWGs).</p>
+<p>A remote browser isolates the user’s browsing activity from the end user’s device and from the enterprise’s networks and systems. This effectively creates an ‘air gap’ between inevitable attacks and the enterprise network, in effect restricting the ability of an attacker establishing a foothold, move laterally within the organization and breach other enterprise systems to exfiltrate data.</p>
+<p>Attackers generally break into the network by means of social engineering to deliver targeted malware/ransomware to vulnerable systems and people. Once they are in, attackers stay quiet to avoid detection, then map out the organizations’ defenses from the inside. This makes it possible to deploy multiple parallel kill chains to ensure success. Attackers usually target unprotected systems and capture information over an extended period. This captured information is sent back to the attack team’s base to be analyzed for further exploitation, fraud, or worse.</p>
+<p>ConnX has a deep understanding of and experience in AI and digital transformation to mitigate the challenges associated with communications integration, provisioning, support, maintenance, and migration resulting in lower cost, higher productivity and a predictable and consistent user experience.</p>
+<p>"Working closely with DefensX’s ready-to-run isolation technologies, ConnX is now able to more effectively address the challenges presented by the new inverted network paradigm associated with today’s borderless workforce in cloud native, mobile first applications,” said Indrajit Ghosh, CEO, ConnX. “The company’s transformational approach delivers excellent user experience with a scalable, cost- efficient, reliable solution that fits in perfectly with our existing managed security portfolio. With DefensX’s solution in our offerings, we’re able to secure our customers’ everyday communications, even as it continues to evolve in this new era of high-performance remote working.”</p>
+<p>You can read the full Press Release at&nbsp;<a target="_blank" href="https://www.defensx.com/news">www.defensx.com/news</a>&nbsp;and learn more about ConnX at&nbsp;<a target="_blank" href="https://www.connxai.com/">www.connxai.com</a>. Contact either company for a demo and briefing – it is easy to get started, simple to deploy, and the most cost-effective way to protect what enterprises protect.</p>
+ 

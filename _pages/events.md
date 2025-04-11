@@ -28,6 +28,7 @@ permalink: /events/
                 <ul>
                     <li class="blog-active"><a href="{{ site.baseurl }}/resources/">Blogs</a></li>
                     <li class="news-active"><a href="{{ site.baseurl }}/news/">News</a></li>
+                    <li class="press-active"><a href="{{ site.baseurl }}/press/">Press</a></li>
                     <li class="whitepapers-active"><a href="{{ site.baseurl }}/whitepapers/">Whitepapers</a></li>
                     <li class="datasheets-active"><a href="{{ site.baseurl }}/datasheets/">Datasheets</a></li>
                     <li class="buyers-active"><a href="{{ site.baseurl }}/buyers-guide/">Buyer’s Guide</a></li>

@@ -1,0 +1,27 @@
+---
+layout: press-post-no-image
+title: "DefensX Names David Arthur Walsh Chairman"
+date: 2020-01-7
+author: Selcan Taskiran
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /press/defensx-names-david-arthur-walsh-chairman/
+description: DefensX Names David Arthur Walsh Chairman
+---
+
+ 
+ 
+ 
+<h4 class="s-28 w-700">Cloud Computing and Connectivity Visionary Joins Browser Isolation Technology Leader to Accelerate Growth</h4>
+<p>New York, New York; July 7, 2020 – DefensX, a Browser Isolation Technology and cybersecurity solutions company, today announced it has named industry veteran David Arthur Walsh as Chairman of the Board. The appointment comes as the demand for enterprise security is surging as enterprises are rapidly rethinking and re-engineering remote working platforms.</p>
+<p>Walsh has over thirty years of experience building Internet-based and cloud communications, cloud computing, data center, platform-as-a-service and cyber security companies, and brings to DefensX a depth of knowledge, business operations, growth strategies and a global network of enterprise leaders.</p>
+<p>“We and our clients and partners are incredibly fortunate to welcome David to our growing business as we continue to lead in the RBI (Remote Browser Isolation) space,” said Osman Erkan, co-founder and CEO of DefensX, and the principal investor in O1 Technologies, the private firm which owns a majority stake in the company. “David brings a breadth of global experience as a technology pioneer, and a depth of knowledge and experience which have already proven to attract new business and exciting strategic relationships.”</p>
+<p>“Digital business transformation, which has accelerated as a result of the global pandemic, is driving security to the edge and in the cloud, embedding security as a service into the network,” Walsh said. “DefensX’s browser isolation solutions are needed by security and risk management leaders immediately, as only a converged cloud-delivered secure access service edge truly addresses the expanding attack surface, and DefensX’s remote solution does so directly in the browser. The architecture Murat Demirten, CTO and his team have developed is extremely powerful, particularly given how it is managed remotely and productively given the amount of automation and intelligence built into the solution. This is the most advanced RBI solution we have seen, a point-of-view which has been affirmed by experts in my global business network. It is an honor to step into this role and support the DefensX team, especially given the growing demand at this critical time. This is meaningful technology.”</p>
+<p>According to Gartner, digital business and edge computing have inverted access requirements, with more users, devices, applications, services and data located outside of an enterprise than inside. RBI technology is part of an overall cloud-delivered, Secure Access Service Edge (SASE) posture.</p>
+<p>“Digital enterprise transformation was already well underway before the COVID-19 pandemic hit,” Erkan said, “and the growth of more user worked performed off the enterprise network than on-net, and the adoption of more applications consumed via SaaS than consumed from traditional enterprise application infrastructure, means adversaries can more easily penetrate data at rest and data in motion. Non-secured browsers are a cyber criminal’s best friend, and a front line of defense enterprise security professionals are racing to address, even as large-scale attacks are being reported nearly every day. This is something David understands and has been socializing informally; as Chairman of our company, he is now formally fast-tracking our development and engagement with partners and large global enterprises who have so much to gain from DefensX’s unique methodology.”</p>
+<p>Walsh has been a disruptor and innovator across a range of technology driven markets over the course of his 30+ year career. A proven leader, he has built, scaled and sold companies from start-ups to global enterprises, generating $3.75 billion of cumulative gain for investors and management teams by combining his vision and operational expertise.</p>
+<p>Walsh has a track record of growing businesses both private and public, organically and inorganically through M&amp;A to affect industry consolidations. He has deep knowledge of the capital markets including private equity, venture capital, bankruptcy / restructuring and turnarounds including financing across the entire capital structure, and has served as CEO, President or Partner of five publicly traded companies.</p>
+<p>His complete bio is available&nbsp;<a class="color--theme" target="_blank" href="https://www.davidarthurwalsh.com/bio/">here</a>.</p>
+<p><strong>About DefensX</strong></p>
+<p>DefensX, founded in 2018 in New York, NY, is transforming and disrupting the way cloud cyber security is delivered with a human centric, application driven approach. The company is altering the cloud cyber security landscape with its unique isolation technologies. DefensX seamlessly and effectively prevent cyber threats today and tomorrow, prioritizing better user experience anywhere, at a fraction of the cost. For more information, visit www.DefensX.com .</p>
+<p><strong>Contact: </strong><br> Selcan Taskiran, CMO; selcan@defensx.com ; +1 (437) 238-8969</p>
+ 

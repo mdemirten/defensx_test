@@ -1,0 +1,26 @@
+---
+layout: blog-post
+title: "Browser Isolation: The Solution to Persistent Threats and Browser Vulnerabilities"
+date: 2022-04-26
+author: DefensX Team
+image: /assets/images/blog/DEFENSX-Blog-8 (1).jpg
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /blog/browser-isolation-the-solution-to-persistent-threats-and-browser-vulnerabilities/
+description: Browser Isolation The Solution to Persistent Threats and Browser Vulnerabilities
+---
+
+ 
+ 
+ 
+ 
+<p>The vast number of malware and ransomware attacks occur with the web browser and directly target the internet user when they are casually surfing the internet. Attackers are finding it easy to bypass preventative controls such as signature-based malware scanning, firewalls and secure web gateways (SWGs). Browser-based attacks are known to be the primary threat vector for attackers who are targeting users with vulnerable web browsers and plug-ins. According to Gartner, 49.6% of attacks are browser based.</p>
+<p>Gartner believes that the time has come to isolate browser access from the dangers of the public internet for at least a portion of their traffic which deals with high-risk users and use cases. For this, we introduce a method which isolates the user’s internet browsing activity from the end user’s device and from the rest of the enterprise’s networks and systems. We call this Browser Isolation.</p>
+<h3>What is Remote Browser Isolation and how does it work?</h3>
+<p>As stated, a remote browser is able to isolate the user’s browsing activity from the end user’s device and from the enterprise’s networks and systems. This effectively creates an ‘air gap’ between inevitable attacks and the enterprise network, in effect restricting the ability of an attacker establishing a foothold, move laterally within the organization and breach other enterprise systems in order to exfiltrate data. Remote browser offerings are a subset of browser isolation technologies that remove the browsing process from the end user’s desktop and transfers it to a designated browser server or cloud-based browser service. The remote browser servers then render the browser content remotely and send a bidirectional stream which represents the rendered session out to the user’s local browser which includes audio, video, and keyboard and mouse interactions back to the session.</p>
+<h3>How do attackers break through your web browser?</h3>
+<p>Attackers generally break into the network by means of social engineering to deliver targeted malware to vulnerable systems and people. Once they are in, attackers stay “low and slow” to avoid detection, they are then able to map out the organizations’ defenses from the inside and are able to deploy multiple parallel kill chains to ensure success. Attackers usually target unprotected systems and capture information over an extended period of time. This captured information is sent back to the attack team’s base to be analyzed for further exploitation, fraud, or worse. These attacks or threats are referred to as Advanced Persistent Threats.</p>
+<p>Browsers can execute huge amounts of code to provide the user with a good web surfing experience. HTML has not changed much in the last decade, which depicts that browsers will perform the same for the coming years. This is a vulnerability as many hackers now have the potential to breakthrough browsers as they become acquainted with the whole system. Predominantly users are attacked through e-mail and web sites.</p>
+<p>In an email, the user clicks on a link, which you assume is safe as your organization has had invested hugely on e-mail content security. That link opens a web-browser, and there is always the possibility that the user’s device may get infected. We call it phishing. Even pop-up blockers are not enough to protect under certain attacks. For instance: The user may click on a link on their device, the pop-up blocker blocks something and the user does not notice. However, the browser has already executed some code which could lead to an infection. Corporates limit a massive number of websites. Having said that, not any enterprise user can browse the internet freely. They very often have to switch to their mobile phones to access some web sites, blocked by their SWG or firewalls to do their everyday activities. It reduces integrity and also affects user experience.</p>
+<h3>Browser Isolation as a solution</h3>
+<p>Going back to Gartner’s research and analysis, they state that through 2022, organizations that can isolate high-risk internet browsing and access to URLs within emails will endure up to 70% reduction in attacks that compromise end-user systems. By 2022, 25% of enterprises will adopt browser isolation techniques for some high-risk users and use cases, this is up from less than 1% in 2017. In a nutshell, remote browser isolation is considered to be an upcoming technology adaptation to prevent web-based attacks. It is easy to use, provides the necessary isolation and is cost-efficient.</p>
+ 

@@ -1,0 +1,29 @@
+---
+layout: news-post
+title: "DefensX Announces Additional Financing to Address Rising Social Engineering Threats"
+date: 2023-05-8
+author: Erik Linask
+image: /assets/images/news/2831688246-AdobeStock_153083387-cyber-security-attack-threat-ransomware-malware-supersize-1200x630.webp
+tags: [Malware/Ransomware Protection, Remote Browser Isolation, Advanced URL Protection, File Isolation, SaaS Access Protection]
+permalink: /news/defensx-announces-additional-financing-to-address-rising-social-engineering-threats/
+description: DefensX Announces Additional Financing to Address Rising Social Engineering Threats
+---
+
+ 
+ 
+<p><a href="https://www.defensx.com/">DefensX</a>, developer of a Zero Trust Secure Web Browser extension and solutions today announced it has received investment from the Development METU Technopark Venture Capital Investment Fund (Invest101), established in cooperation with the Türkiye Development Fund (TDF) and METU Technopark.</p>
+<p>Invest101 supports new generation, early-stage technology startups, to scale up innovative solutions across artificial intelligence (AI), machine learning (ML), big data, cybersecurity, fintech, gaming technologies, software development technologies, internet of things (IoT), augmented reality (AR), virtual reality (VR), cloud technologies, advanced material, robotics, nanotechnology, biotechnology, renewable energy, and mobility.</p>
+<p>Unfortunately, apart from human error attacks, cybercrime as a whole experienced monumental growth, much to the dismay of enterprises across all sectors. On average today, there’s a cyberattack every&nbsp;<a href="https://dataprot.net/statistics/cyber-security-statistics/">39 seconds</a>, yet, in the U.S alone, only 10 percent of cybercrime gets reported. Furthermore, the total cost of global cybercrime is expected to reach&nbsp;<a href="https://www.forbes.com/sites/chuckbrooks/2023/03/05/cybersecurity-trends--statistics-for-2023-more-treachery-and-risk-ahead-as-attack-surface-and-hacker-capabilities-grow/?sh=7de6dadb19db">$8 trillion</a>&nbsp;by the end of 2023, with companies losing, on average, around $200,000 a year on cyber crime. This can be a fatal blow for many SMBs.</p>
+<p>“We are pleased to welcome Osman and the DefensX team to our Invest101 family,” said Elif Altug, Ph.D, CFA, CEO and Board Member of Türkiye Development Fund. “The company has already proven the enormous value of technology in our country, our region, and globally, and we look forward to their expansion in such a mission critical area. Without the ability to defend against growing threats, digital and structural transformation is limited. DefensX addresses risks in a modern way which is accessible, affordable, and sustainable.”</p>
+<p>DefensX’s Zero Trust Secure Web Browser delivers a number of capabilities to help businesses combat a growing number of cyber threats.&nbsp; These include: Zero Trust Web Protection, Zero Trust Credentials, Zero Trust File Protection, Remote Browser Isolation, DNS++, and a cloud-first architecture that has been adopted by major distribution channels around the world. With it’s solutions, DefensX looks to continue to scale as the challenges they have been solving for continue to mount.</p>
+<p>Today, cybersecurity has become a priority for organizations in nearly all industries, as while the beginning of the technological age has brought an unprecedented number of benefits and advantages to the business world, it has also opened up the door for a resurgence in cybercrime. Innovative devices and applications, such as automation, machine learning, internet of things (IoT) and the edge, have given cybercriminals a plethora of new tools to leverage, allowing their attacks to be faster, smarter, and in more volume than ever before.&nbsp;</p>
+<p>Along with new tools, the explosion of technology has also greatly increased the amount of endpoints available for hackers to use when attempting to breach servers. Amidst the rapid rise of remote work/WFH, users and endpoints have become the main attack vectors being exploited by cyber criminals. For instance, of the&nbsp;<a href="https://www.comparitech.com/blog/information-security/human-error-cybersecurity-stats/">94 percent</a>&nbsp;of organizations that have experienced insider data breaches in the last year, human error was the top cause of serious incidents, according to 84 percent of IT leaders surveyed.</p>
+<p>“We are deeply honored to have been chosen by the Invest101 team, given their shared focus on creating strong regional and global companies engaged in strategic industries,” said Osman Erkan, Co-Founder and CEO of DefensX. “We look forward to becoming a strong contributor to their network of investors and entrepreneurs who are committed, as we are, to developing and expanding meaningful and sustainable solutions, especially in the cybersecurity arena as threats continue to accelerate.”</p>
+<p>Last month, DefensX announced it had closed a financing round by&nbsp;<a href="https://revo.vc/">Revo</a><u> Capital</u>, a venture capital fund investing in truly innovative, seed &amp; early-stage B2B or B2C technology&nbsp;ventures. The investment of Invest 101 was realized as an extention of the above-mentioned round.</p>
+<p>As demand for DefensX solutions continues to grow in North America, Western and Eastern Europe, Asia Pacific and Europe Middle East and Africa, Invest 101 and Revo’s investments will accelerate further expansion and software-as-a-service development.</p>
+<p><br><br>Edited by</p>
+<a href="https://www.techzone360.com/columnist.aspx?id=100047&amp;nm=Erik%20Linask">Erik Linask</a>
+<p></p>
+<p><em>This article was originally published on&nbsp;<a href="https://www.techzone360.com/topics/techzone/articles/2023/05/08/455800-defensx-announces-additional-financing-address-rising-social-engineering.htm" target="_blank">Techzone 360</a></em></p>
+ 
+ 
