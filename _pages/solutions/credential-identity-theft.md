@@ -32,7 +32,7 @@ permalink: /solutions/credential-identity-theft/
                         <img src="{{ site.baseurl }}/assets/images/solutions/Zero-trust-credential-shield.svg" alt="Zero-Trust Credential Exposure Protection">
                     </div>
                     <div class="text">
-                        <h3>Zero-Trust Credential Exposure Protection</h3>
+                        <h2>Zero-Trust Credential Exposure Protection</h2>
                         <p>Assess domain credibility, manage user credential entry, and enhance security with AI-powered image processing and risk controls.</p>
                     </div>
                 </div>
@@ -44,7 +44,7 @@ permalink: /solutions/credential-identity-theft/
                         <img src="{{ site.baseurl }}/assets/images/solutions/Phishing-vector.svg" alt="Phishing Protection">
                     </div>
                     <div class="text">
-                        <h3>Phishing Protection</h3>
+                        <h2>Phishing Protection</h2>
                         <p>DefensX delivers automatic, comprehensive protection against even the most advanced threats. With industry-leading protection against credential and identity theft, plus defense for SaaS access and session hijacking, organizations can achieve a robust 360-degree browser security strategy.</p>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ permalink: /solutions/credential-identity-theft/
                        <img src="{{ site.baseurl }}/assets/images/solutions/MFA-protection.svg" alt="Multi-Factor Authentication (MFA) Breach Protection">
                     </div>
                     <div class="text">
-                        <h3>Multi-Factor Authentication (MFA) Breach Protection</h3>
+                        <h2>Multi-Factor Authentication (MFA) Breach Protection</h2>
                         <p>Automatically detect and block MFA compromise attempts like session and token hijacking, ensuring a more secure and efficient digital workspace.</p>
                     </div>
                 </div>
@@ -68,8 +68,8 @@ permalink: /solutions/credential-identity-theft/
                         <img src="{{ site.baseurl }}/assets/images/solutions/Advanced-URL-protection.svg" alt="Advanced URL Protection">
                     </div>
                     <div class="text">
-                        <h3>Advanced URL Protection</h3>
-                        <p>Categorize URLs into over 200 groups, each assigned a risk score based on policy settings. Beyond simple allow-or-block options, DefensX enables tailored responses like Remote Browser Isolation or Read-Only mode, customized for each user’s needs.</p>
+                        <h2>Advanced URL Protection</h2>
+                        <p>Categorize URLs into over 200 groups, each assigned a risk score based on policy settings. Beyond simple allow-or-block options, DefensX enables tailored responses like <a href="https://www.defensx.com/blog/what-is-remote-browser-isolation/">Remote Browser Isolation</a> or Read-Only mode, customized for each user’s needs.</p>
                     </div>
                 </div>
             </div>

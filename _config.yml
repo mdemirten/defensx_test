@@ -15,22 +15,22 @@ nav:
   - title: Solutions
     url: /solutions/
     submenu:
-      - title: Endpoint Protection
-        url: /solutions/endpoint-protection/
-      - title: Content Filtering
-        url: /solutions/content-filtering/
-      - title: DNS Security
-        url: /solutions/dns-security/
-      - title: Remote Browser Isolation
-        url: /solutions/remote-browser-isolation/
-      - title: Data Loss Prevention
-        url: /solutions/data-loss-prevention/
       - title: Credential & Identity Theft
         url: /solutions/credential-identity-theft/
-      - title: Ad Blocking
-        url: /solutions/ad-blocking/
-      - title: AI-Powered Reports
-        url: /solutions/ai-powered-reports/
+      - title: AI-Agent Protection
+        url: /solutions/ai-agent-protection/
+      - title: AI Threat Intelligence Reports
+        url: /solutions/ai-threat-intelligence-reports/  
+      - title: Content Filtering
+        url: /solutions/content-filtering/  
+      - title: DNS Security
+        url: /solutions/dns-security/  
+      - title: Secure Web Browser
+        url: /solutions/secure-web-browser/  
+      - title: Remote Browser Isolation
+        url: /solutions/remote-browser-isolation/
+      - title: Data Loss Protection
+        url: /solutions/data-loss-protection/
   - title: For MSPs
     url: /security-for-msps/
   - title: For Enterprises
@@ -54,6 +54,6 @@ minibundle:
 
 include:
   - _pages
-  - "/defensx_test/assets/animations/DefensX_Side_BY_Side_Animation_V2.json"
+  - "/defensx_test/assets/animations/DefensX_Side_BY_Side_Animation_V3.json"
   - "/defensx_test/assets/animations/DefensX_Mobile_Animation_V2.json"
   - "robots.txt"

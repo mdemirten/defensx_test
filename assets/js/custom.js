@@ -6,7 +6,7 @@ $(document).ready(function(){
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: '/defensx_test/assets/animations/DefensX_Side_BY_Side_Animation_V2.json'
+    path: '/defensx_test/assets/animations/DefensX_Side_BY_Side_Animation_V3.json'
   });
 });
 

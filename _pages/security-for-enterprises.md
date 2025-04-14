@@ -36,7 +36,33 @@ permalink: /security-for-enterprises/
                         <p>Enterprise Browser Isolation</p>
                     </div>
                     </div>
-                 
+            
+            <div class="feature-box text-center">
+                    <div class="icon">
+                        <img src="{{ site.baseurl }}/assets/images/for-msps/identity-theft-and-phishing-protection.svg" alt="Identity Theft and Phishing Protection">
+                    </div>
+                    <div class="content">
+                        <p>Identity Theft and Phishing Protection</p>
+                    </div>
+                </div>
+            
+            <div class="feature-box text-center">
+                    <div class="icon">
+                        <img src="{{ site.baseurl }}/assets/images/for-msps/VDI-replacement.svg" alt="VDI Replacement">
+                    </div>
+                    <div class="content">
+                        <p>VDI Replacement</p>
+                    </div>
+                    </div>
+            
+            <div class="feature-box text-center">
+                    <div class="icon">
+                        <img src="{{ site.baseurl }}/assets/images/for-msps/SaaS-application-access-control.svg" alt="SaaS Application Access Control">
+                    </div>
+                    <div class="content">
+                        <p>SaaS Application Access Control</p>
+                    </div>
+                    </div>
                 
                  
                     <div class="feature-box text-center">
@@ -45,6 +71,15 @@ permalink: /security-for-enterprises/
                     </div>
                     <div class="content">
                         <p>Human Risk Management</p>
+                    </div>
+                    </div>
+            
+            <div class="feature-box text-center">
+                    <div class="icon">
+                        <img src="{{ site.baseurl }}/assets/images/for-msps/adware-protection.svg" alt="Adware Protection">
+                    </div>
+                    <div class="content">
+                        <p>Adware Protection</p>
                     </div>
                     </div>
                  
@@ -56,6 +91,15 @@ permalink: /security-for-enterprises/
                     </div>
                     <div class="content">
                         <p>Advanced DNS Security</p>
+                    </div>
+                    </div>
+                 
+            <div class="feature-box text-center">
+                    <div class="icon">
+                        <img src="{{ site.baseurl }}/assets/images/for-msps/MFA-breach-protection.svg" alt="MFA Breach Protection">
+                    </div>
+                    <div class="content">
+                        <p>MFA Breach Protection</p>
                     </div>
                     </div>
                  
@@ -83,58 +127,22 @@ permalink: /security-for-enterprises/
                  
                 
                 
-                    <div class="feature-box text-center">
-                    <div class="icon">
-                        <img src="{{ site.baseurl }}/assets/images/for-msps/VDI-replacement.svg" alt="VDI Replacement">
-                    </div>
-                    <div class="content">
-                        <p>VDI Replacement</p>
-                    </div>
-                    </div>
+                    
                 
                 
                 
-                    <div class="feature-box text-center">
-                    <div class="icon">
-                        <img src="{{ site.baseurl }}/assets/images/for-msps/adware-protection.svg" alt="Adware Protection">
-                    </div>
-                    <div class="content">
-                        <p>Adware Protection</p>
-                    </div>
-                    </div>
+                    
                 
                 
                  
-                    <div class="feature-box text-center">
-                    <div class="icon">
-                        <img src="{{ site.baseurl }}/assets/images/for-msps/MFA-breach-protection.svg" alt="MFA Breach Protection">
-                    </div>
-                    <div class="content">
-                        <p>MFA Breach Protection</p>
-                    </div>
-                    </div>
-                 
+                    
                 
                 
-                    <div class="feature-box text-center">
-                    <div class="icon">
-                        <img src="{{ site.baseurl }}/assets/images/for-msps/SaaS-application-access-control.svg" alt="SaaS Application Access Control">
-                    </div>
-                    <div class="content">
-                        <p>SaaS Application Access Control</p>
-                    </div>
-                    </div>
+                    
                 
                 
                  
-                    <div class="feature-box text-center">
-                    <div class="icon">
-                        <img src="{{ site.baseurl }}/assets/images/for-msps/identity-theft-and-phishing-protection.svg" alt="Identity Theft and Phishing Protection">
-                    </div>
-                    <div class="content">
-                        <p>Identity Theft and Phishing Protection</p>
-                    </div>
-                </div>
+                    
                  
             </div>
         
@@ -169,9 +177,9 @@ Modern Threats on Any Browser"></p>
         <div class="row">
             
             <div class="col-md-6">
-                <h2>Scalable, Zero Trust Security <br>with Policy-Aligned Browser Protection</h2>
+                <h2>Automated Enterprise Risk Reporting</h2>
                 
-                <p>By aligning the browser with organizational policies and regulations, dynamically filtering content and files, and guarding every session, user, and credential, organizations can boost efficiency, scale effortlessly, and surpass enterprise-grade security standards—achieving Zero Trust by design.</p>
+                <p>At DefensX, we believe enterprises should have seamless, real-time visibility into their entire organization’s risk and security posture. Our human risk management dashboard provides automated, in-depth reports on human risk and vulnerabilities, empowering enterprises worldwide to effortlessly achieve Zero Trust and cyber resilience.</p>
                  
                 <h5><a href="#">Book a demo to see how <img src="{{ site.baseurl }}/assets/images/for-msps/Vector-right.png">
                             </a></h5> </div>
@@ -192,8 +200,8 @@ Modern Threats on Any Browser"></p>
             </div>
             <div class="col-md-6">
                 <div class="text">
-                    <h2>Automated Enterprise <br>Risk Reporting</h2>
-                    <p>At DefensX, we believe enterprises should have seamless, real-time visibility into their entire organization’s risk and security posture. Our human risk management dashboard provides automated, in-depth reports on human risk and vulnerabilities, empowering enterprises worldwide to effortlessly achieve Zero Trust and cyber resilience.</p>
+                    <h2>A Modern, Secure, and Cost-Effective VDI Alternative—Powered by Your Browser</h2>
+                    <p>DefensX offers a modern, cost-effective alternative to VDI, enabling organizations to cut costs, strengthen security, and enhance user experience—without the operational challenges of legacy virtual desktops. By shifting secure access controls to the browser, DefensX delivers robust protection without the complexity of traditional VDI solutions.</p>
                     <h5><a href="#">Download a sample report <img src="{{ site.baseurl }}/assets/images/for-msps/Vector-right-black.png">
                             </a></h5> </div>
             </div>
@@ -204,8 +212,8 @@ Modern Threats on Any Browser"></p>
             </div>
             <div class="col-md-6">
                 <div class="text">
-                    <h2>A Modern, Secure, and Cost-Effective VDI Alternative—Powered by Your Browser</h2>
-                    <p>DefensX offers a modern, cost-effective alternative to VDI, enabling organizations to cut costs, strengthen security, and enhance user experience—without the operational challenges of legacy virtual desktops. By shifting secure access controls to the browser, DefensX delivers robust protection without the complexity of traditional VDI solutions.</p>
+                    <h2>A Brandable Enterprise Experience</h2>
+                    <p>Browser security should integrate effortlessly with MSPs and their clients. DefensX enables enterprises to create custom, branded pop-ups, enhancing user familiarity and satisfaction.</p>
                     <h5><a href="#">Book a demo to see how <img src="{{ site.baseurl }}/assets/images/for-msps/Vector-right-black.png">
                             </a></h5> </div>
             </div>
@@ -214,18 +222,7 @@ Modern Threats on Any Browser"></p>
     
         
         
-        <div class="row">
-            <div class="col-md-6">
-                <p><img src="{{ site.baseurl }}/assets/images/for-msps/Brandable-Client-Experience.png" alt="A Brandable Enterprise Experience"></p>
-            </div>
-            <div class="col-md-6">
-                <div class="text">
-                    <h2>A Brandable Enterprise <br>Experience</h2>
-                    <p>Browser security should integrate effortlessly with MSPs and their clients. DefensX enables enterprises to create custom, branded pop-ups, enhancing user familiarity and satisfaction.</p>
-                    <h5><a href="#">Book a demo to see how <img src="{{ site.baseurl }}/assets/images/for-msps/Vector-right-black.png">
-                            </a></h5> </div>
-            </div>
-        </div>
+        
         
         
     </div>

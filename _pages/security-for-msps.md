@@ -12,7 +12,7 @@ permalink: /security-for-msps/
 
 <h1>Web Browser Security <br>Engineered for MSP's Efficiency</h1>
 
-<p>DefensX is redefining security for MSPs and organizations worldwide by transforming your everyday browser into a secure, cost-effective digital workspace. With industry-leading credential and identity protection, robust Web and AI-driven Data Loss Prevention, built-in advanced DNS security, and automated risk reporting, DefensX delivers comprehensive, 360-degree browser protection—without requiring any changes from you or your users. </p>
+<p>DefensX is redefining security for MSPs and organizations worldwide by transforming your everyday browser into a secure, cost-effective digital workspace. With industry-leading credential and identity protection, robust Web and AI-driven Data Loss Prevention, built-in advanced DNS security, and automated risk reporting, DefensX delivers comprehensive, 360-degree browser protection—without requiring any changes from you or your users.</p>
 
 <p class="bottons"><a href="#">Download Buyer’s Guide</a> <a href="#">Book a Demo</a></p>
 </div>
